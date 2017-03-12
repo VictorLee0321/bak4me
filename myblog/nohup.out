@@ -1,0 +1,2953 @@
+Not Found: /
+[11/Mar/2017 08:55:31] "GET / HTTP/1.1" 404 2010
+Not Found: /favicon.ico
+[11/Mar/2017 08:55:31] "GET /favicon.ico HTTP/1.1" 404 2043
+Not Found: /
+[11/Mar/2017 08:55:44] "GET / HTTP/1.1" 404 2010
+Not Found: /favicon.ico
+[11/Mar/2017 08:55:44] "GET /favicon.ico HTTP/1.1" 404 2043
+Performing system checks...
+
+System check identified no issues (0 silenced).
+
+You have 13 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, sessions.
+Run 'python manage.py migrate' to apply them.
+March 11, 2017 - 08:55:04
+Django version 1.10.5, using settings 'myblog.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+Not Found: /
+[11/Mar/2017 08:56:14] "GET / HTTP/1.1" 404 2010
+Not Found: /
+[11/Mar/2017 08:56:15] "GET / HTTP/1.1" 404 2010
+Not Found: /
+[11/Mar/2017 08:56:15] "GET / HTTP/1.1" 404 2010
+Not Found: /
+[11/Mar/2017 08:56:15] "GET / HTTP/1.1" 404 2010
+Not Found: /
+[11/Mar/2017 08:56:24] "GET / HTTP/1.1" 404 2010
+Not Found: /
+[11/Mar/2017 08:56:25] "GET / HTTP/1.1" 404 2010
+Not Found: /
+[11/Mar/2017 08:56:30] "GET / HTTP/1.1" 404 2010
+Not Found: /
+[11/Mar/2017 08:56:30] "GET / HTTP/1.1" 404 2010
+Not Found: /
+[11/Mar/2017 08:56:30] "GET / HTTP/1.1" 404 2010
+Not Found: /
+[11/Mar/2017 08:56:31] "GET / HTTP/1.1" 404 2010
+Not Found: /
+[11/Mar/2017 08:56:31] "GET / HTTP/1.1" 404 2010
+Not Found: /
+[11/Mar/2017 08:56:31] "GET / HTTP/1.1" 404 2010
+Performing system checks...
+
+System check identified no issues (0 silenced).
+
+You have 13 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, sessions.
+Run 'python manage.py migrate' to apply them.
+March 11, 2017 - 08:56:11
+Django version 1.10.5, using settings 'myblog.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+Not Found: /
+[11/Mar/2017 08:57:06] "GET / HTTP/1.1" 404 2010
+Not Found: /
+[11/Mar/2017 08:57:08] "GET / HTTP/1.1" 404 2010
+Not Found: /
+[11/Mar/2017 08:57:08] "GET / HTTP/1.1" 404 2010
+Not Found: /
+[11/Mar/2017 08:57:08] "GET / HTTP/1.1" 404 2010
+[11/Mar/2017 09:25:03] "GET /index/index HTTP/1.1" 301 0
+[11/Mar/2017 09:25:03] "GET /index/index/ HTTP/1.1" 200 12
+Not Found: /index
+[11/Mar/2017 09:25:08] "GET /index HTTP/1.1" 404 2025
+Not Found: /
+[11/Mar/2017 09:25:14] "GET / HTTP/1.1" 404 2010
+Not Found: /index
+[11/Mar/2017 09:25:19] "GET /index HTTP/1.1" 404 2025
+[11/Mar/2017 09:25:22] "GET /index/index/ HTTP/1.1" 200 12
+Performing system checks...
+
+System check identified no issues (0 silenced).
+
+You have 13 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, sessions.
+Run 'python manage.py migrate' to apply them.
+March 11, 2017 - 09:24:52
+Django version 1.10.5, using settings 'myblog.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Not Found: /index/index/
+[11/Mar/2017 09:26:09] "GET /index/index/ HTTP/1.1" 404 2045
+[11/Mar/2017 09:26:13] "GET /blog/index/ HTTP/1.1" 200 12
+Performing system checks...
+
+System check identified no issues (0 silenced).
+
+You have 13 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, sessions.
+Run 'python manage.py migrate' to apply them.
+March 11, 2017 - 09:25:57
+Django version 1.10.5, using settings 'myblog.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Not Found: /blog/index/
+[11/Mar/2017 09:26:37] "GET /blog/index/ HTTP/1.1" 404 2092
+Not Found: /blog/index/
+[11/Mar/2017 09:26:37] "GET /blog/index/ HTTP/1.1" 404 2092
+Not Found: /blog/
+[11/Mar/2017 09:26:39] "GET /blog/ HTTP/1.1" 404 2074
+Not Found: /blog/
+[11/Mar/2017 09:26:43] "GET /blog/ HTTP/1.1" 404 2074
+Performing system checks...
+
+System check identified no issues (0 silenced).
+
+You have 13 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, sessions.
+Run 'python manage.py migrate' to apply them.
+March 11, 2017 - 09:26:31
+Django version 1.10.5, using settings 'myblog.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+[11/Mar/2017 09:27:13] "GET /blog/ HTTP/1.1" 200 12
+[11/Mar/2017 09:27:14] "GET /blog/ HTTP/1.1" 200 12
+Performing system checks...
+
+System check identified no issues (0 silenced).
+
+You have 13 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, sessions.
+Run 'python manage.py migrate' to apply them.
+March 11, 2017 - 09:27:07
+Django version 1.10.5, using settings 'myblog.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Not Found: /blog/
+[11/Mar/2017 09:29:11] "GET /blog/ HTTP/1.1" 404 2078
+[11/Mar/2017 09:29:15] "GET /blog/index HTTP/1.1" 200 12
+[11/Mar/2017 09:29:19] "GET /blog/index HTTP/1.1" 200 12
+[11/Mar/2017 09:29:20] "GET /blog/index HTTP/1.1" 200 12
+[11/Mar/2017 09:29:21] "GET /blog/index HTTP/1.1" 200 12
+[11/Mar/2017 09:29:21] "GET /blog/index HTTP/1.1" 200 12
+[11/Mar/2017 09:29:21] "GET /blog/index HTTP/1.1" 200 12
+[11/Mar/2017 09:29:21] "GET /blog/index HTTP/1.1" 200 12
+[11/Mar/2017 09:29:21] "GET /blog/index HTTP/1.1" 200 12
+[11/Mar/2017 09:29:22] "GET /blog/index HTTP/1.1" 200 12
+[11/Mar/2017 09:29:22] "GET /blog/index HTTP/1.1" 200 12
+Not Found: /blog/index/
+[11/Mar/2017 09:29:25] "GET /blog/index/ HTTP/1.1" 404 2096
+Not Found: /blog/index/
+[11/Mar/2017 09:29:39] "GET /blog/index/ HTTP/1.1" 404 2096
+Not Found: /favicon.ico
+[11/Mar/2017 09:29:39] "GET /favicon.ico HTTP/1.1" 404 2042
+Not Found: /favicon.ico
+[11/Mar/2017 09:29:39] "GET /favicon.ico HTTP/1.1" 404 2042
+[11/Mar/2017 09:29:42] "GET /blog/index HTTP/1.1" 200 12
+Performing system checks...
+
+System check identified no issues (0 silenced).
+
+You have 13 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, sessions.
+Run 'python manage.py migrate' to apply them.
+March 11, 2017 - 09:29:05
+Django version 1.10.5, using settings 'myblog.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Not Found: /blog/index/
+[11/Mar/2017 09:52:41] "GET /blog/index/ HTTP/1.1" 404 2096
+Internal Server Error: /blog/index
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victorlee/graduation_project/myblog/blog/views.py", line 6, in index
+    return render(request, 'index.html')
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 67, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 25, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+TemplateDoesNotExist: index.html
+[11/Mar/2017 09:52:45] "GET /blog/index HTTP/1.1" 500 84005
+Internal Server Error: /blog/index
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victorlee/graduation_project/myblog/blog/views.py", line 6, in index
+    return render(request, 'index.html')
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 67, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 25, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+TemplateDoesNotExist: index.html
+[11/Mar/2017 09:52:56] "GET /blog/index HTTP/1.1" 500 84140
+Internal Server Error: /blog/index
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victorlee/graduation_project/myblog/blog/views.py", line 6, in index
+    return render(request, 'index.html')
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 67, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 25, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+TemplateDoesNotExist: index.html
+[11/Mar/2017 09:53:10] "GET /blog/index HTTP/1.1" 500 84140
+Not Found: /blog/index/
+[11/Mar/2017 09:55:21] "GET /blog/index/ HTTP/1.1" 404 2096
+Not Found: /blog/index/
+[11/Mar/2017 09:55:24] "GET /blog/index/ HTTP/1.1" 404 2096
+Internal Server Error: /blog/index
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victorlee/graduation_project/myblog/blog/views.py", line 6, in index
+    return render(request, 'index.html')
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 67, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 25, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+TemplateDoesNotExist: index.html
+[11/Mar/2017 09:55:30] "GET /blog/index HTTP/1.1" 500 84005
+Performing system checks...
+
+System check identified no issues (0 silenced).
+
+You have 13 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, sessions.
+Run 'python manage.py migrate' to apply them.
+March 11, 2017 - 09:52:28
+Django version 1.10.5, using settings 'myblog.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+[11/Mar/2017 10:00:30] "GET /blog/index HTTP/1.1" 301 0
+Internal Server Error: /blog/index/
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victorlee/graduation_project/myblog/blog/views.py", line 6, in index
+    return render(request, 'index.html')
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 67, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 25, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+TemplateDoesNotExist: index.html
+[11/Mar/2017 10:00:30] "GET /blog/index/ HTTP/1.1" 500 84155
+Internal Server Error: /blog/index/
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victorlee/graduation_project/myblog/blog/views.py", line 6, in index
+    return render(request, 'index.html')
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 67, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 25, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+TemplateDoesNotExist: index.html
+[11/Mar/2017 10:00:31] "GET /blog/index/ HTTP/1.1" 500 84155
+Internal Server Error: /blog/index/
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victorlee/graduation_project/myblog/blog/views.py", line 6, in index
+    return render(request, 'index.html')
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 67, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 25, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+TemplateDoesNotExist: index.html
+[11/Mar/2017 10:00:32] "GET /blog/index/ HTTP/1.1" 500 84155
+Internal Server Error: /blog/index/
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victorlee/graduation_project/myblog/blog/views.py", line 6, in index
+    return render(request, 'index.html')
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 67, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 25, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+TemplateDoesNotExist: index.html
+[11/Mar/2017 10:00:32] "GET /blog/index/ HTTP/1.1" 500 84155
+Internal Server Error: /blog/index/
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victorlee/graduation_project/myblog/blog/views.py", line 6, in index
+    return render(request, 'index.html')
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 67, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 25, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+TemplateDoesNotExist: index.html
+[11/Mar/2017 10:00:32] "GET /blog/index/ HTTP/1.1" 500 84155
+Internal Server Error: /blog/index/
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victorlee/graduation_project/myblog/blog/views.py", line 6, in index
+    return render(request, 'index.html')
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 67, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 25, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+TemplateDoesNotExist: index.html
+[11/Mar/2017 10:00:32] "GET /blog/index/ HTTP/1.1" 500 84155
+Internal Server Error: /blog/index/
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victorlee/graduation_project/myblog/blog/views.py", line 6, in index
+    return render(request, 'index.html')
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 67, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 25, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+TemplateDoesNotExist: index.html
+[11/Mar/2017 10:00:33] "GET /blog/index/ HTTP/1.1" 500 84155
+Internal Server Error: /blog/index/
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victorlee/graduation_project/myblog/blog/views.py", line 6, in index
+    return render(request, 'index.html')
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 67, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 25, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+TemplateDoesNotExist: index.html
+[11/Mar/2017 10:00:33] "GET /blog/index/ HTTP/1.1" 500 84155
+Internal Server Error: /blog/index/
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victorlee/graduation_project/myblog/blog/views.py", line 6, in index
+    return render(request, 'index.html')
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 67, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 25, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+TemplateDoesNotExist: index.html
+[11/Mar/2017 10:00:33] "GET /blog/index/ HTTP/1.1" 500 84155
+Internal Server Error: /blog/index/
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victorlee/graduation_project/myblog/blog/views.py", line 6, in index
+    return render(request, 'index.html')
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 67, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 25, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+TemplateDoesNotExist: index.html
+[11/Mar/2017 10:00:33] "GET /blog/index/ HTTP/1.1" 500 84155
+Internal Server Error: /blog/index/
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victorlee/graduation_project/myblog/blog/views.py", line 6, in index
+    return render(request, 'index.html')
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 67, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 25, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+TemplateDoesNotExist: index.html
+[11/Mar/2017 10:00:34] "GET /blog/index/ HTTP/1.1" 500 84155
+Internal Server Error: /blog/index/
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victorlee/graduation_project/myblog/blog/views.py", line 6, in index
+    return render(request, 'index.html')
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 67, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 25, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+TemplateDoesNotExist: index.html
+[11/Mar/2017 10:00:34] "GET /blog/index/ HTTP/1.1" 500 84155
+Internal Server Error: /blog/index/
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victorlee/graduation_project/myblog/blog/views.py", line 6, in index
+    return render(request, 'index.html')
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 67, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 25, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+TemplateDoesNotExist: index.html
+[11/Mar/2017 10:00:34] "GET /blog/index/ HTTP/1.1" 500 84155
+Internal Server Error: /blog/index/
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victorlee/graduation_project/myblog/blog/views.py", line 6, in index
+    return render(request, 'index.html')
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 67, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 25, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+TemplateDoesNotExist: index.html
+[11/Mar/2017 10:00:34] "GET /blog/index/ HTTP/1.1" 500 84155
+Internal Server Error: /blog/index/
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victorlee/graduation_project/myblog/blog/views.py", line 6, in index
+    return render(request, 'index.html')
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 67, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 25, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+TemplateDoesNotExist: index.html
+[11/Mar/2017 10:00:34] "GET /blog/index/ HTTP/1.1" 500 84155
+Internal Server Error: /blog/index/
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victorlee/graduation_project/myblog/blog/views.py", line 6, in index
+    return render(request, 'index.html')
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 67, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 25, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+TemplateDoesNotExist: index.html
+[11/Mar/2017 10:00:35] "GET /blog/index/ HTTP/1.1" 500 84155
+Internal Server Error: /blog/index/
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victorlee/graduation_project/myblog/blog/views.py", line 6, in index
+    return render(request, 'index.html')
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 67, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 25, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+TemplateDoesNotExist: index.html
+[11/Mar/2017 10:07:18] "GET /blog/index/ HTTP/1.1" 500 84155
+Internal Server Error: /blog/index/
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victorlee/graduation_project/myblog/blog/views.py", line 6, in index
+    return render(request, 'index.html')
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 67, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 25, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+TemplateDoesNotExist: index.html
+[11/Mar/2017 10:07:19] "GET /blog/index/ HTTP/1.1" 500 84155
+Internal Server Error: /blog/index/
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victorlee/graduation_project/myblog/blog/views.py", line 6, in index
+    return render(request, 'index.html')
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 67, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 25, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+TemplateDoesNotExist: index.html
+[11/Mar/2017 10:07:20] "GET /blog/index/ HTTP/1.1" 500 84155
+Internal Server Error: /blog/index/
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victorlee/graduation_project/myblog/blog/views.py", line 6, in index
+    return render(request, 'index.html')
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 67, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 25, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+TemplateDoesNotExist: index.html
+[11/Mar/2017 10:07:20] "GET /blog/index/ HTTP/1.1" 500 84155
+Internal Server Error: /blog/index/
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victorlee/graduation_project/myblog/blog/views.py", line 6, in index
+    return render(request, 'index.html')
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 67, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 25, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+TemplateDoesNotExist: index.html
+[11/Mar/2017 10:07:20] "GET /blog/index/ HTTP/1.1" 500 84155
+Internal Server Error: /blog/index/
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victorlee/graduation_project/myblog/blog/views.py", line 6, in index
+    return render(request, 'index.html')
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 67, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 25, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+TemplateDoesNotExist: index.html
+[11/Mar/2017 10:07:21] "GET /blog/index/ HTTP/1.1" 500 84155
+Internal Server Error: /blog/index/
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victorlee/graduation_project/myblog/blog/views.py", line 6, in index
+    return render(request, 'index.html')
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 67, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 25, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+TemplateDoesNotExist: index.html
+[11/Mar/2017 10:07:21] "GET /blog/index/ HTTP/1.1" 500 84155
+Internal Server Error: /blog/index/
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victorlee/graduation_project/myblog/blog/views.py", line 6, in index
+    return render(request, 'index.html')
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 67, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 25, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+TemplateDoesNotExist: index.html
+[11/Mar/2017 10:07:21] "GET /blog/index/ HTTP/1.1" 500 84155
+Internal Server Error: /blog/index/
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victorlee/graduation_project/myblog/blog/views.py", line 6, in index
+    return render(request, 'index.html')
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 67, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 25, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+TemplateDoesNotExist: index.html
+[11/Mar/2017 10:07:21] "GET /blog/index/ HTTP/1.1" 500 84155
+Internal Server Error: /blog/index/
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victorlee/graduation_project/myblog/blog/views.py", line 6, in index
+    return render(request, 'index.html')
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 67, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 25, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+TemplateDoesNotExist: index.html
+[11/Mar/2017 10:07:22] "GET /blog/index/ HTTP/1.1" 500 84155
+Internal Server Error: /blog/index/
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victorlee/graduation_project/myblog/blog/views.py", line 6, in index
+    return render(request, 'index.html')
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 67, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 25, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+TemplateDoesNotExist: index.html
+[11/Mar/2017 10:07:22] "GET /blog/index/ HTTP/1.1" 500 84155
+Internal Server Error: /blog/index/
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victorlee/graduation_project/myblog/blog/views.py", line 6, in index
+    return render(request, 'index.html')
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 67, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 25, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+TemplateDoesNotExist: index.html
+[11/Mar/2017 10:07:22] "GET /blog/index/ HTTP/1.1" 500 84155
+Internal Server Error: /blog/index/
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victorlee/graduation_project/myblog/blog/views.py", line 6, in index
+    return render(request, 'index.html')
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 67, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 25, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+TemplateDoesNotExist: index.html
+[11/Mar/2017 10:07:22] "GET /blog/index/ HTTP/1.1" 500 84155
+Internal Server Error: /blog/index/
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victorlee/graduation_project/myblog/blog/views.py", line 6, in index
+    return render(request, 'index.html')
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 67, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 25, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+TemplateDoesNotExist: index.html
+[11/Mar/2017 10:07:23] "GET /blog/index/ HTTP/1.1" 500 84155
+Internal Server Error: /blog/index/
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victorlee/graduation_project/myblog/blog/views.py", line 6, in index
+    return render(request, 'index.html')
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 67, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 25, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+TemplateDoesNotExist: index.html
+[11/Mar/2017 10:07:23] "GET /blog/index/ HTTP/1.1" 500 84155
+Internal Server Error: /blog/index/
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victorlee/graduation_project/myblog/blog/views.py", line 6, in index
+    return render(request, 'index.html')
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 67, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 25, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+TemplateDoesNotExist: index.html
+[11/Mar/2017 10:07:23] "GET /blog/index/ HTTP/1.1" 500 84155
+Internal Server Error: /blog/index/
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victorlee/graduation_project/myblog/blog/views.py", line 6, in index
+    return render(request, 'index.html')
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 67, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 25, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+TemplateDoesNotExist: index.html
+[11/Mar/2017 10:07:23] "GET /blog/index/ HTTP/1.1" 500 84155
+Internal Server Error: /blog/index/
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victorlee/graduation_project/myblog/blog/views.py", line 6, in index
+    return render(request, 'index.html')
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 67, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 25, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+TemplateDoesNotExist: index.html
+[11/Mar/2017 10:07:24] "GET /blog/index/ HTTP/1.1" 500 84155
+Internal Server Error: /blog/index/
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victorlee/graduation_project/myblog/blog/views.py", line 6, in index
+    return render(request, 'index.html')
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 67, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 25, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+TemplateDoesNotExist: index.html
+[11/Mar/2017 10:07:24] "GET /blog/index/ HTTP/1.1" 500 84155
+Internal Server Error: /blog/index/
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victorlee/graduation_project/myblog/blog/views.py", line 6, in index
+    return render(request, 'index.html')
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 67, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 25, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+TemplateDoesNotExist: index.html
+[11/Mar/2017 10:07:24] "GET /blog/index/ HTTP/1.1" 500 84155
+Internal Server Error: /blog/index/
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victorlee/graduation_project/myblog/blog/views.py", line 6, in index
+    return render(request, 'index.html')
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 67, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 25, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+TemplateDoesNotExist: index.html
+[11/Mar/2017 10:07:24] "GET /blog/index/ HTTP/1.1" 500 84155
+Internal Server Error: /blog/index/
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victorlee/graduation_project/myblog/blog/views.py", line 6, in index
+    return render(request, 'index.html')
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 67, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 25, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+TemplateDoesNotExist: index.html
+[11/Mar/2017 10:07:24] "GET /blog/index/ HTTP/1.1" 500 84155
+Internal Server Error: /blog/index/
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victorlee/graduation_project/myblog/blog/views.py", line 6, in index
+    return render(request, 'index.html')
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 67, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 25, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+TemplateDoesNotExist: index.html
+[11/Mar/2017 10:07:25] "GET /blog/index/ HTTP/1.1" 500 84155
+Internal Server Error: /blog/index/
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victorlee/graduation_project/myblog/blog/views.py", line 6, in index
+    return render(request, 'index.html')
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 67, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 25, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+TemplateDoesNotExist: index.html
+[11/Mar/2017 10:07:25] "GET /blog/index/ HTTP/1.1" 500 84155
+Internal Server Error: /blog/index/
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victorlee/graduation_project/myblog/blog/views.py", line 6, in index
+    return render(request, 'index.html')
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 67, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 25, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+TemplateDoesNotExist: index.html
+[11/Mar/2017 10:07:56] "GET /blog/index/ HTTP/1.1" 500 84155
+Internal Server Error: /blog/index/
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victorlee/graduation_project/myblog/blog/views.py", line 6, in index
+    return render(request, 'index.html')
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 67, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 25, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+TemplateDoesNotExist: index.html
+[11/Mar/2017 10:07:57] "GET /blog/index/ HTTP/1.1" 500 84155
+Internal Server Error: /blog/index/
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victorlee/graduation_project/myblog/blog/views.py", line 6, in index
+    return render(request, 'index.html')
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 67, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 25, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+TemplateDoesNotExist: index.html
+[11/Mar/2017 10:08:03] "GET /blog/index/ HTTP/1.1" 500 84155
+Performing system checks...
+
+System check identified no issues (0 silenced).
+
+You have 13 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, sessions.
+Run 'python manage.py migrate' to apply them.
+March 11, 2017 - 10:00:24
+Django version 1.10.5, using settings 'myblog.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+[11/Mar/2017 10:17:13] "GET /blog/index/ HTTP/1.1" 200 146
+[11/Mar/2017 10:17:14] "GET /blog/index/ HTTP/1.1" 200 146
+[11/Mar/2017 10:17:14] "GET /blog/index/ HTTP/1.1" 200 146
+[11/Mar/2017 10:17:14] "GET /blog/index/ HTTP/1.1" 200 146
+[11/Mar/2017 10:17:14] "GET /blog/index/ HTTP/1.1" 200 146
+[11/Mar/2017 10:18:32] "GET /blog/index/ HTTP/1.1" 200 146
+[11/Mar/2017 10:18:32] "GET /blog/index/ HTTP/1.1" 200 146
+[11/Mar/2017 10:18:33] "GET /blog/index/ HTTP/1.1" 200 146
+Performing system checks...
+
+System check identified no issues (0 silenced).
+
+You have 13 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, sessions.
+Run 'python manage.py migrate' to apply them.
+March 11, 2017 - 10:17:07
+Django version 1.10.5, using settings 'myblog.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+[11/Mar/2017 10:23:13] "GET /blog/index/ HTTP/1.1" 200 137
+[11/Mar/2017 10:23:15] "GET /blog/index/ HTTP/1.1" 200 137
+[11/Mar/2017 10:23:43] "GET /blog/index/ HTTP/1.1" 200 168
+[11/Mar/2017 10:23:43] "GET /blog/index/ HTTP/1.1" 200 168
+Performing system checks...
+
+System check identified no issues (0 silenced).
+
+You have 13 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, sessions.
+Run 'python manage.py migrate' to apply them.
+March 11, 2017 - 10:22:35
+Django version 1.10.5, using settings 'myblog.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+
+You have 13 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, sessions.
+Run 'python manage.py migrate' to apply them.
+March 11, 2017 - 10:26:07
+Django version 1.10.5, using settings 'myblog.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+
+You have 13 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, sessions.
+Run 'python manage.py migrate' to apply them.
+March 11, 2017 - 10:29:45
+Django version 1.10.5, using settings 'myblog.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+[11/Mar/2017 10:31:43] "GET /blog/index/ HTTP/1.1" 200 137
+[11/Mar/2017 10:31:47] "GET /blog/index/ HTTP/1.1" 200 137
+[11/Mar/2017 10:31:50] "GET /blog/index/ HTTP/1.1" 200 137
+[11/Mar/2017 10:32:44] "GET /blog2/index/ HTTP/1.1" 200 137
+[11/Mar/2017 10:33:56] "GET /blog2/index/ HTTP/1.1" 200 165
+[11/Mar/2017 10:33:57] "GET /blog2/index/ HTTP/1.1" 200 165
+[11/Mar/2017 10:34:00] "GET /blog/index/ HTTP/1.1" 200 165
+Performing system checks...
+
+System check identified no issues (0 silenced).
+
+You have 13 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, sessions.
+Run 'python manage.py migrate' to apply them.
+March 11, 2017 - 10:31:31
+Django version 1.10.5, using settings 'myblog.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+
+You have 13 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, sessions.
+Run 'python manage.py migrate' to apply them.
+March 11, 2017 - 10:38:25
+Django version 1.10.5, using settings 'myblog.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Internal Server Error: /blog2/index/
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victorlee/graduation_project/myblog/blog2/views.py", line 5, in index
+    return render(request, 'blog2/index.html')
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 67, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 25, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+TemplateDoesNotExist: blog2/index.html
+[11/Mar/2017 10:39:00] "GET /blog2/index/ HTTP/1.1" 500 85294
+Internal Server Error: /blog/index/
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victorlee/graduation_project/myblog/blog/views.py", line 6, in index
+    return render(request, 'blog/index.html')
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 67, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 25, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+TemplateDoesNotExist: blog/index.html
+[11/Mar/2017 10:39:03] "GET /blog/index/ HTTP/1.1" 500 85632
+Not Found: /blog1/index/
+[11/Mar/2017 10:39:04] "GET /blog1/index/ HTTP/1.1" 404 2152
+Internal Server Error: /blog/index/
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victorlee/graduation_project/myblog/blog/views.py", line 6, in index
+    return render(request, 'blog/index.html')
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 67, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 25, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+TemplateDoesNotExist: blog/index.html
+[11/Mar/2017 10:39:24] "GET /blog/index/ HTTP/1.1" 500 85632
+Internal Server Error: /blog2/index/
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victorlee/graduation_project/myblog/blog2/views.py", line 5, in index
+    return render(request, 'blog2/index.html')
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 67, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 25, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+TemplateDoesNotExist: blog2/index.html
+[11/Mar/2017 10:39:42] "GET /blog2/index/ HTTP/1.1" 500 85159
+Internal Server Error: /blog2/index/
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victorlee/graduation_project/myblog/blog2/views.py", line 5, in index
+    return render(request, 'blog2/index.html')
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 67, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 25, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+TemplateDoesNotExist: blog2/index.html
+[11/Mar/2017 10:41:00] "GET /blog2/index/ HTTP/1.1" 500 85294
+Internal Server Error: /blog2/index/
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victorlee/graduation_project/myblog/blog2/views.py", line 5, in index
+    return render(request, 'blog2/index.html')
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 67, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 25, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+TemplateDoesNotExist: blog2/index.html
+[11/Mar/2017 10:41:01] "GET /blog2/index/ HTTP/1.1" 500 85294
+[11/Mar/2017 10:41:03] "GET /blog/index/ HTTP/1.1" 200 165
+[11/Mar/2017 10:41:05] "GET /blog/index/ HTTP/1.1" 200 165
+[11/Mar/2017 10:41:06] "GET /blog/index/ HTTP/1.1" 200 165
+[11/Mar/2017 10:41:06] "GET /blog/index/ HTTP/1.1" 200 165
+[11/Mar/2017 10:41:08] "GET /blog/index/ HTTP/1.1" 200 165
+[11/Mar/2017 10:41:09] "GET /blog/index/ HTTP/1.1" 200 165
+[11/Mar/2017 10:41:09] "GET /blog/index/ HTTP/1.1" 200 165
+[11/Mar/2017 10:41:33] "GET /blog/index/ HTTP/1.1" 200 211
+[11/Mar/2017 10:41:55] "GET /blog2/index/ HTTP/1.1" 200 154
+Performing system checks...
+
+System check identified no issues (0 silenced).
+
+You have 13 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, sessions.
+Run 'python manage.py migrate' to apply them.
+March 11, 2017 - 10:38:37
+Django version 1.10.5, using settings 'myblog.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+
+You have 13 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, sessions.
+Run 'python manage.py migrate' to apply them.
+March 11, 2017 - 10:49:30
+Django version 1.10.5, using settings 'myblog.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+
+You have 13 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, sessions.
+Run 'python manage.py migrate' to apply them.
+March 11, 2017 - 10:51:11
+Django version 1.10.5, using settings 'myblog.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+
+You have 13 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, sessions.
+Run 'python manage.py migrate' to apply them.
+March 11, 2017 - 10:51:38
+Django version 1.10.5, using settings 'myblog.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Unhandled exception in thread started by <function wrapper at 0x7fac0b4b9f50>
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/utils/autoreload.py", line 226, in wrapper
+    fn(*args, **kwargs)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/management/commands/runserver.py", line 113, in inner_run
+    autoreload.raise_last_exception()
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/utils/autoreload.py", line 249, in raise_last_exception
+    six.reraise(*_exception)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/utils/autoreload.py", line 226, in wrapper
+    fn(*args, **kwargs)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/__init__.py", line 27, in setup
+    apps.populate(settings.INSTALLED_APPS)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/apps/registry.py", line 108, in populate
+    app_config.import_models(all_models)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/apps/config.py", line 199, in import_models
+    self.models_module = import_module(models_module_name)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/victorlee/graduation_project/myblog/blog/models.py", line 6, in <module>
+    class Article(models.Model):
+  File "/home/victorlee/graduation_project/myblog/blog/models.py", line 8, in Article
+    conn
+NameError: name 'conn' is not defined
+Unhandled exception in thread started by <function wrapper at 0x7fda9988d758>
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/utils/autoreload.py", line 226, in wrapper
+    fn(*args, **kwargs)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/management/commands/runserver.py", line 113, in inner_run
+    autoreload.raise_last_exception()
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/utils/autoreload.py", line 249, in raise_last_exception
+    six.reraise(*_exception)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/utils/autoreload.py", line 226, in wrapper
+    fn(*args, **kwargs)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/__init__.py", line 27, in setup
+    apps.populate(settings.INSTALLED_APPS)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/apps/registry.py", line 108, in populate
+    app_config.import_models(all_models)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/apps/config.py", line 199, in import_models
+    self.models_module = import_module(models_module_name)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/victorlee/graduation_project/myblog/blog/models.py", line 8
+    connten = 
+             ^
+SyntaxError: invalid syntax
+Unhandled exception in thread started by <function wrapper at 0x7ffbf3ff0f50>
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/utils/autoreload.py", line 226, in wrapper
+    fn(*args, **kwargs)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/management/commands/runserver.py", line 113, in inner_run
+    autoreload.raise_last_exception()
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/utils/autoreload.py", line 249, in raise_last_exception
+    six.reraise(*_exception)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/utils/autoreload.py", line 226, in wrapper
+    fn(*args, **kwargs)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/__init__.py", line 27, in setup
+    apps.populate(settings.INSTALLED_APPS)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/apps/registry.py", line 108, in populate
+    app_config.import_models(all_models)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/apps/config.py", line 199, in import_models
+    self.models_module = import_module(models_module_name)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/victorlee/graduation_project/myblog/blog/models.py", line 6, in <module>
+    class Article(models.Model):
+  File "/home/victorlee/graduation_project/myblog/blog/models.py", line 8, in Article
+    connten = models.Ch
+AttributeError: 'module' object has no attribute 'Ch'
+Performing system checks...
+
+System check identified no issues (0 silenced).
+
+You have 13 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, sessions.
+Run 'python manage.py migrate' to apply them.
+March 11, 2017 - 10:51:57
+Django version 1.10.5, using settings 'myblog.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+
+You have 13 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, sessions.
+Run 'python manage.py migrate' to apply them.
+March 11, 2017 - 10:52:14
+Django version 1.10.5, using settings 'myblog.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Unhandled exception in thread started by <function wrapper at 0x7fe7f2740de8>
+Performing system checks...
+
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/utils/autoreload.py", line 226, in wrapper
+    fn(*args, **kwargs)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/management/commands/runserver.py", line 121, in inner_run
+    self.check(display_num_errors=True)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/management/base.py", line 374, in check
+    include_deployment_checks=include_deployment_checks,
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/management/base.py", line 361, in _run_checks
+    return checks.run_checks(**kwargs)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/checks/registry.py", line 81, in run_checks
+    new_errors = check(app_configs=app_configs)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/checks/model_checks.py", line 30, in check_all_models
+    errors.extend(model.check(**kwargs))
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/db/models/base.py", line 1266, in check
+    errors.extend(cls._check_fields(**kwargs))
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/db/models/base.py", line 1337, in _check_fields
+    errors.extend(field.check(**kwargs))
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/db/models/fields/__init__.py", line 893, in check
+    errors = super(AutoField, self).check(**kwargs)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/db/models/fields/__init__.py", line 208, in check
+    errors.extend(self._check_backend_specific_checks(**kwargs))
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/db/models/fields/__init__.py", line 311, in _check_backend_specific_checks
+    return connections[db].validation.check_field(self, **kwargs)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/db/backends/mysql/validation.py", line 41, in check_field
+    field_type = field.db_type(connection)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/db/models/fields/__init__.py", line 629, in db_type
+    return connection.data_types[self.get_internal_type()] % data
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/db/__init__.py", line 33, in __getattr__
+    return getattr(connections[DEFAULT_DB_ALIAS], item)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/db/backends/mysql/base.py", line 183, in data_types
+    if self.features.supports_microsecond_precision:
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/db/backends/mysql/features.py", line 54, in supports_microsecond_precision
+    return self.connection.mysql_version >= (5, 6, 4) and Database.version_info >= (1, 2, 5)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/db/backends/mysql/base.py", line 367, in mysql_version
+    with self.temporary_connection() as cursor:
+  File "/usr/lib/python2.7/contextlib.py", line 17, in __enter__
+    return self.gen.next()
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/db/backends/base/base.py", line 564, in temporary_connection
+    cursor = self.cursor()
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/db/backends/base/base.py", line 231, in cursor
+    cursor = self.make_debug_cursor(self._cursor())
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/db/backends/base/base.py", line 204, in _cursor
+    self.ensure_connection()
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/db/backends/base/base.py", line 199, in ensure_connection
+    self.connect()
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/db/utils.py", line 94, in __exit__
+    six.reraise(dj_exc_type, dj_exc_value, traceback)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/db/backends/base/base.py", line 199, in ensure_connection
+    self.connect()
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/db/backends/base/base.py", line 171, in connect
+    self.connection = self.get_new_connection(conn_params)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/db/backends/mysql/base.py", line 263, in get_new_connection
+    conn = Database.connect(**conn_params)
+  File "/usr/local/lib/python2.7/dist-packages/MySQL_python-1.2.3-py2.7-linux-x86_64.egg/MySQLdb/__init__.py", line 81, in Connect
+  File "/usr/local/lib/python2.7/dist-packages/MySQL_python-1.2.3-py2.7-linux-x86_64.egg/MySQLdb/connections.py", line 187, in __init__
+django.db.utils.OperationalError: (1049, "Unknown database 'myblog'")
+[11/Mar/2017 11:35:22] "GET /blog/index/ HTTP/1.1" 200 211
+Not Found: /blog1/index/
+[11/Mar/2017 11:35:32] "GET /blog1/index/ HTTP/1.1" 404 2152
+[11/Mar/2017 11:35:35] "GET /blog/index/ HTTP/1.1" 200 211
+[11/Mar/2017 11:35:35] "GET /blog2/index/ HTTP/1.1" 200 154
+[11/Mar/2017 11:35:38] "GET /blog/index/ HTTP/1.1" 200 211
+[11/Mar/2017 11:38:03] "GET /blog/index/ HTTP/1.1" 200 266
+[11/Mar/2017 11:38:04] "GET /blog/index/ HTTP/1.1" 200 266
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 11, 2017 - 11:35:13
+Django version 1.10.5, using settings 'myblog.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 11, 2017 - 11:47:47
+Django version 1.10.5, using settings 'myblog.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Not Found: /Admin
+[11/Mar/2017 11:48:41] "GET /Admin HTTP/1.1" 404 2131
+[11/Mar/2017 11:48:47] "GET /admin HTTP/1.1" 301 0
+[11/Mar/2017 11:48:47] "GET /admin/ HTTP/1.1" 302 0
+[11/Mar/2017 11:48:47] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1653
+[11/Mar/2017 11:48:47] "GET /static/admin/css/base.css HTTP/1.1" 200 15937
+[11/Mar/2017 11:48:47] "GET /static/admin/css/login.css HTTP/1.1" 200 1203
+[11/Mar/2017 11:48:47] "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+[11/Mar/2017 11:48:47] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 80304
+[11/Mar/2017 11:48:47] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 81348
+[11/Mar/2017 11:48:53] "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[11/Mar/2017 11:48:53] "GET /admin/ HTTP/1.1" 200 2779
+[11/Mar/2017 11:48:53] "GET /static/admin/css/dashboard.css HTTP/1.1" 200 434
+[11/Mar/2017 11:48:53] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+[11/Mar/2017 11:48:53] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+[11/Mar/2017 11:48:53] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 82564
+[11/Mar/2017 11:48:58] "GET /admin/auth/group/ HTTP/1.1" 200 3379
+[11/Mar/2017 11:48:58] "GET /static/admin/css/changelists.css HTTP/1.1" 200 6117
+[11/Mar/2017 11:48:58] "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 363
+[11/Mar/2017 11:48:58] "GET /static/admin/js/core.js HTTP/1.1" 200 7976
+[11/Mar/2017 11:48:58] "GET /static/admin/js/actions.js HTTP/1.1" 200 6501
+[11/Mar/2017 11:48:58] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 6577
+[11/Mar/2017 11:48:58] "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1538
+[11/Mar/2017 11:48:59] "GET /static/admin/js/urlify.js HTTP/1.1" 200 8186
+[11/Mar/2017 11:48:59] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 128820
+[11/Mar/2017 11:48:59] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[11/Mar/2017 11:48:59] "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+[11/Mar/2017 11:48:59] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 258648
+[11/Mar/2017 11:48:59] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+[11/Mar/2017 11:49:01] "GET /admin/ HTTP/1.1" 200 2779
+[11/Mar/2017 15:09:02] "GET /admin/ HTTP/1.1" 200 2779
+[11/Mar/2017 15:09:03] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[11/Mar/2017 15:09:03] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[11/Mar/2017 15:09:03] "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+[11/Mar/2017 15:09:03] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+[11/Mar/2017 15:09:03] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+[11/Mar/2017 15:09:03] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+[11/Mar/2017 15:09:03] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+[11/Mar/2017 15:09:03] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+Not Found: /favicon.ico
+[11/Mar/2017 15:09:03] "GET /favicon.ico HTTP/1.1" 404 2149
+[11/Mar/2017 15:09:05] "GET /admin/ HTTP/1.1" 200 2779
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 11, 2017 - 15:08:57
+Django version 1.10.5, using settings 'myblog.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Unhandled exception in thread started by <function wrapper at 0x7f785ce40050>
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/utils/autoreload.py", line 226, in wrapper
+    fn(*args, **kwargs)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/management/commands/runserver.py", line 113, in inner_run
+    autoreload.raise_last_exception()
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/utils/autoreload.py", line 249, in raise_last_exception
+    six.reraise(*_exception)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/utils/autoreload.py", line 226, in wrapper
+    fn(*args, **kwargs)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/__init__.py", line 27, in setup
+    apps.populate(settings.INSTALLED_APPS)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/apps/registry.py", line 108, in populate
+    app_config.import_models(all_models)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/apps/config.py", line 199, in import_models
+    self.models_module = import_module(models_module_name)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/contrib/auth/models.py", line 101, in <module>
+    class Group(models.Model):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/db/models/base.py", line 157, in __new__
+    new_class.add_to_class(obj_name, obj)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/db/models/base.py", line 316, in add_to_class
+    value.contribute_to_class(cls, name)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/db/models/fields/related.py", line 1535, in contribute_to_class
+    self.remote_field.through = create_many_to_many_intermediary_model(self, cls)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/db/models/fields/related.py", line 1049, in create_many_to_many_intermediary_model
+    'verbose_name': _('%(from)s-%(to)s relationship') % {'from': from_, 'to': to},
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/utils/functional.py", line 159, in __mod__
+    return six.text_type(self) % rhs
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/utils/functional.py", line 116, in __text_cast
+    return func(*self.__args, **self.__kw)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/utils/translation/__init__.py", line 85, in ugettext
+    return _trans.ugettext(message)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/utils/translation/trans_real.py", line 343, in ugettext
+    return do_translate(message, 'ugettext')
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/utils/translation/trans_real.py", line 320, in do_translate
+    _default = _default or translation(settings.LANGUAGE_CODE)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/utils/translation/trans_real.py", line 227, in translation
+    _translations[language] = DjangoTranslation(language)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/utils/translation/trans_real.py", line 134, in __init__
+    raise IOError("No translation files found for default language %s." % settings.LANGUAGE_CODE)
+IOError: No translation files found for default language zh_Hans.
+[11/Mar/2017 15:15:19] "GET /admin/ HTTP/1.1" 200 2735
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 11, 2017 - 15:15:06
+Django version 1.10.5, using settings 'myblog.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+[11/Mar/2017 15:15:58] "GET /admin/ HTTP/1.1" 200 2779
+[11/Mar/2017 15:15:59] "GET /admin/ HTTP/1.1" 200 2779
+[11/Mar/2017 15:15:59] "GET /admin/ HTTP/1.1" 200 2779
+[11/Mar/2017 15:15:59] "GET /admin/ HTTP/1.1" 200 2779
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 11, 2017 - 15:15:48
+Django version 1.10.5, using settings 'myblog.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+[11/Mar/2017 15:18:45] "GET /admin/ HTTP/1.1" 200 3412
+[11/Mar/2017 15:18:46] "GET /admin/ HTTP/1.1" 200 3412
+[11/Mar/2017 15:18:46] "GET /admin/ HTTP/1.1" 200 3412
+[11/Mar/2017 15:19:09] "GET /admin/blog/ HTTP/1.1" 200 2193
+[11/Mar/2017 15:19:11] "GET /admin/blog/ HTTP/1.1" 200 2193
+[11/Mar/2017 15:19:11] "GET /admin/blog/ HTTP/1.1" 200 2193
+[11/Mar/2017 15:19:12] "GET /admin/blog/ HTTP/1.1" 200 2193
+[11/Mar/2017 15:19:13] "GET /admin/blog/article/ HTTP/1.1" 200 4184
+[11/Mar/2017 15:19:13] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[11/Mar/2017 15:19:16] "GET /admin/blog/article/1/change/ HTTP/1.1" 200 4580
+[11/Mar/2017 15:19:16] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[11/Mar/2017 15:19:16] "GET /static/admin/css/forms.css HTTP/1.1" 200 7750
+[11/Mar/2017 15:19:16] "GET /static/admin/js/change_form.js HTTP/1.1" 200 698
+[11/Mar/2017 15:19:16] "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 495
+[11/Mar/2017 15:19:16] "GET /static/admin/css/widgets.css HTTP/1.1" 200 10340
+[11/Mar/2017 15:20:02] "POST /admin/blog/article/1/change/ HTTP/1.1" 302 0
+[11/Mar/2017 15:20:02] "GET /admin/blog/article/ HTTP/1.1" 200 4374
+[11/Mar/2017 15:20:02] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[11/Mar/2017 15:20:02] "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+[11/Mar/2017 15:20:04] "GET /admin/blog/article/1/change/ HTTP/1.1" 200 4611
+[11/Mar/2017 15:20:04] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[11/Mar/2017 15:20:13] "GET /admin/ HTTP/1.1" 200 3741
+[11/Mar/2017 15:20:18] "GET /blog/index/ HTTP/1.1" 200 297
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 11, 2017 - 15:18:38
+Django version 1.10.5, using settings 'myblog.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Internal Server Error: /blog/index/
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victorlee/graduation_project/myblog/blog/views.py", line 8, in index
+    article = models.Article.objects.get(pk=1)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/db/models/query.py", line 379, in get
+    num = len(clone)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/db/models/query.py", line 238, in __len__
+    self._fetch_all()
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/db/models/query.py", line 1087, in _fetch_all
+    self._result_cache = list(self.iterator())
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/db/models/query.py", line 54, in __iter__
+    results = compiler.execute_sql()
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/db/models/sql/compiler.py", line 835, in execute_sql
+    cursor.execute(sql, params)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/db/backends/utils.py", line 79, in execute
+    return super(CursorDebugWrapper, self).execute(sql, params)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/db/backends/utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/db/utils.py", line 94, in __exit__
+    six.reraise(dj_exc_type, dj_exc_value, traceback)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/db/backends/utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/db/backends/mysql/base.py", line 110, in execute
+    return self.cursor.execute(query, args)
+  File "/usr/local/lib/python2.7/dist-packages/MySQL_python-1.2.3-py2.7-linux-x86_64.egg/MySQLdb/cursors.py", line 174, in execute
+    self.errorhandler(self, exc, value)
+  File "/usr/local/lib/python2.7/dist-packages/MySQL_python-1.2.3-py2.7-linux-x86_64.egg/MySQLdb/connections.py", line 36, in defaulterrorhandler
+    raise errorclass, errorvalue
+OperationalError: (1054, "Unknown column 'blog_article.content' in 'field list'")
+[11/Mar/2017 15:27:06] "GET /blog/index/ HTTP/1.1" 500 128477
+[11/Mar/2017 15:28:11] "GET /blog/index/ HTTP/1.1" 200 297
+[11/Mar/2017 15:28:12] "GET /blog/index/ HTTP/1.1" 200 297
+Not Found: /blog/admin
+[11/Mar/2017 15:28:16] "GET /blog/admin HTTP/1.1" 404 2201
+[11/Mar/2017 15:28:28] "GET /admin/ HTTP/1.1" 200 3741
+[11/Mar/2017 15:28:31] "GET /admin/blog/article/ HTTP/1.1" 200 4191
+[11/Mar/2017 15:28:31] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[11/Mar/2017 15:28:36] "GET /admin/blog/article/1/change/ HTTP/1.1" 200 4618
+[11/Mar/2017 15:28:36] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[11/Mar/2017 15:28:43] "GET /admin/blog/article/ HTTP/1.1" 200 4191
+[11/Mar/2017 15:29:04] "GET /admin/blog/article/ HTTP/1.1" 200 4191
+[11/Mar/2017 15:29:04] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[11/Mar/2017 15:29:09] "GET /admin/blog/article/add/ HTTP/1.1" 200 4333
+[11/Mar/2017 15:29:09] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[11/Mar/2017 15:29:13] "POST /admin/blog/article/add/ HTTP/1.1" 302 0
+[11/Mar/2017 15:29:13] "GET /admin/blog/article/ HTTP/1.1" 200 4590
+[11/Mar/2017 15:29:13] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[11/Mar/2017 15:29:16] "GET /admin/blog/ HTTP/1.1" 200 2193
+[11/Mar/2017 15:29:17] "GET /admin/blog/article/ HTTP/1.1" 200 4411
+[11/Mar/2017 15:29:17] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 11, 2017 - 15:26:37
+Django version 1.10.5, using settings 'myblog.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 11, 2017 - 15:33:56
+Django version 1.10.5, using settings 'myblog.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Not Found: /
+[11/Mar/2017 15:37:52] "GET / HTTP/1.1" 404 2116
+[11/Mar/2017 15:38:01] "GET /blog/index/ HTTP/1.1" 200 287
+[11/Mar/2017 15:38:04] "GET /blog/index/ HTTP/1.1" 200 287
+[11/Mar/2017 15:38:05] "GET /blog/index/ HTTP/1.1" 200 287
+[11/Mar/2017 15:38:06] "GET /blog/index/ HTTP/1.1" 200 287
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 11, 2017 - 15:34:38
+Django version 1.10.5, using settings 'myblog.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 11, 2017 - 15:43:18
+Django version 1.10.5, using settings 'myblog.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 11, 2017 - 15:44:50
+Django version 1.10.5, using settings 'myblog.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Unhandled exception in thread started by <function wrapper at 0x7fc03937de60>
+Performing system checks...
+
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/utils/autoreload.py", line 226, in wrapper
+    fn(*args, **kwargs)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/management/commands/runserver.py", line 121, in inner_run
+    self.check(display_num_errors=True)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/management/base.py", line 374, in check
+    include_deployment_checks=include_deployment_checks,
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/management/base.py", line 361, in _run_checks
+    return checks.run_checks(**kwargs)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/checks/registry.py", line 81, in run_checks
+    new_errors = check(app_configs=app_configs)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/checks/urls.py", line 14, in check_url_config
+    return check_resolver(resolver)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/checks/urls.py", line 24, in check_resolver
+    for pattern in resolver.url_patterns:
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/urls/resolvers.py", line 313, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/urls/resolvers.py", line 306, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/victorlee/graduation_project/myblog/myblog/urls.py", line 22, in <module>
+    url(r'^blog/', include('blog.urls')),
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/conf/urls/__init__.py", line 50, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/victorlee/graduation_project/myblog/blog/urls.py", line 18, in <module>
+    from . import views
+  File "/home/victorlee/graduation_project/myblog/blog/views.py", line 16
+    return render(request, '', {"article': article}
+                                                  ^
+SyntaxError: EOL while scanning string literal
+Unhandled exception in thread started by <function wrapper at 0x7f377aecde60>
+Performing system checks...
+
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/utils/autoreload.py", line 226, in wrapper
+    fn(*args, **kwargs)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/management/commands/runserver.py", line 121, in inner_run
+    self.check(display_num_errors=True)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/management/base.py", line 374, in check
+    include_deployment_checks=include_deployment_checks,
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/management/base.py", line 361, in _run_checks
+    return checks.run_checks(**kwargs)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/checks/registry.py", line 81, in run_checks
+    new_errors = check(app_configs=app_configs)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/checks/urls.py", line 14, in check_url_config
+    return check_resolver(resolver)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/checks/urls.py", line 24, in check_resolver
+    for pattern in resolver.url_patterns:
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/urls/resolvers.py", line 313, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/urls/resolvers.py", line 306, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/victorlee/graduation_project/myblog/myblog/urls.py", line 22, in <module>
+    url(r'^blog/', include('blog.urls')),
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/conf/urls/__init__.py", line 50, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/victorlee/graduation_project/myblog/blog/urls.py", line 18, in <module>
+    from . import views
+  File "/home/victorlee/graduation_project/myblog/blog/views.py", line 16
+    return render(request, '', {"article': article})
+                                                   ^
+SyntaxError: EOL while scanning string literal
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 11, 2017 - 15:47:52
+Django version 1.10.5, using settings 'myblog.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+[11/Mar/2017 15:55:02] "GET /blog/index/ HTTP/1.1" 200 287
+Not Found: /blog/article1
+[11/Mar/2017 15:55:04] "GET /blog/article1 HTTP/1.1" 404 2401
+Not Found: /blog/article_id1
+[11/Mar/2017 15:55:12] "GET /blog/article_id1 HTTP/1.1" 404 2410
+Not Found: /blog/article_id/1
+[11/Mar/2017 15:55:27] "GET /blog/article_id/1 HTTP/1.1" 404 2413
+[11/Mar/2017 15:55:35] "GET /blog/article/1 HTTP/1.1" 200 1022
+[11/Mar/2017 15:55:47] "GET /blog/article/2 HTTP/1.1" 200 983
+[11/Mar/2017 15:55:51] "GET /blog/article/1 HTTP/1.1" 200 1022
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 11, 2017 - 15:54:24
+Django version 1.10.5, using settings 'myblog.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 11, 2017 - 16:02:03
+Django version 1.10.5, using settings 'myblog.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+[11/Mar/2017 16:05:48] "GET /blog/article/1 HTTP/1.1" 200 1022
+[11/Mar/2017 16:05:48] "GET /blog/article/1 HTTP/1.1" 200 1022
+[11/Mar/2017 16:05:48] "GET /blog/article/1 HTTP/1.1" 200 1022
+[11/Mar/2017 16:05:49] "GET /blog/article/1 HTTP/1.1" 200 1022
+[11/Mar/2017 16:05:49] "GET /blog/article/1 HTTP/1.1" 200 1022
+Not Found: /blog/
+[11/Mar/2017 16:05:51] "GET /blog/ HTTP/1.1" 404 2398
+[11/Mar/2017 16:05:53] "GET /blog/index/ HTTP/1.1" 200 317
+[11/Mar/2017 16:05:56] "GET /blog/index/ HTTP/1.1" 200 317
+[11/Mar/2017 16:05:56] "GET /blog/index/ HTTP/1.1" 200 317
+[11/Mar/2017 16:05:57] "GET /blog/article/1 HTTP/1.1" 200 1022
+[11/Mar/2017 16:06:00] "GET /blog/article/2 HTTP/1.1" 200 983
+[11/Mar/2017 16:06:03] "GET /blog/article/1 HTTP/1.1" 200 1022
+[11/Mar/2017 16:06:06] "GET /blog/article/2 HTTP/1.1" 200 983
+[11/Mar/2017 16:06:09] "GET /blog/article/1 HTTP/1.1" 200 1022
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 11, 2017 - 16:03:25
+Django version 1.10.5, using settings 'myblog.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Internal Server Error: /blog/index/
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victorlee/graduation_project/myblog/blog/views.py", line 10, in index
+    return render(request, 'blog/index.html', {'articles': articles})
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 68, in render_to_string
+    return template.render(context, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/backends/django.py", line 66, in render
+    return self.template.render(context)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/base.py", line 208, in render
+    return self._render(context)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/base.py", line 199, in _render
+    return self.nodelist.render(context)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/base.py", line 994, in render
+    bit = node.render_annotated(context)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/base.py", line 961, in render_annotated
+    return self.render(context)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/defaulttags.py", line 209, in render
+    nodelist.append(node.render_annotated(context))
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/base.py", line 961, in render_annotated
+    return self.render(context)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/defaulttags.py", line 439, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/urls/base.py", line 91, in reverse
+    return force_text(iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs)))
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/urls/resolvers.py", line 392, in _reverse_with_prefix
+    (lookup_view_s, args, kwargs, len(patterns), patterns)
+NoReverseMatch: Reverse for 'article_page' with arguments '(1L,)' and keyword arguments '{}' not found. 0 pattern(s) tried: []
+[11/Mar/2017 17:11:30] "GET /blog/index/ HTTP/1.1" 500 134725
+Internal Server Error: /blog/index/
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victorlee/graduation_project/myblog/blog/views.py", line 10, in index
+    return render(request, 'blog/index.html', {'articles': articles})
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 68, in render_to_string
+    return template.render(context, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/backends/django.py", line 66, in render
+    return self.template.render(context)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/base.py", line 208, in render
+    return self._render(context)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/base.py", line 199, in _render
+    return self.nodelist.render(context)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/base.py", line 994, in render
+    bit = node.render_annotated(context)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/base.py", line 961, in render_annotated
+    return self.render(context)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/defaulttags.py", line 209, in render
+    nodelist.append(node.render_annotated(context))
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/base.py", line 961, in render_annotated
+    return self.render(context)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/defaulttags.py", line 439, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/urls/base.py", line 91, in reverse
+    return force_text(iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs)))
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/urls/resolvers.py", line 392, in _reverse_with_prefix
+    (lookup_view_s, args, kwargs, len(patterns), patterns)
+NoReverseMatch: Reverse for 'article_page' with arguments '(1L,)' and keyword arguments '{}' not found. 0 pattern(s) tried: []
+[11/Mar/2017 17:11:30] "GET /blog/index/ HTTP/1.1" 500 134725
+[11/Mar/2017 17:11:48] "GET /blog/index/ HTTP/1.1" 200 317
+[11/Mar/2017 17:11:48] "GET /blog/index/ HTTP/1.1" 200 317
+[11/Mar/2017 17:11:50] "GET /blog/index/ HTTP/1.1" 200 317
+[11/Mar/2017 17:11:51] "GET /blog/article/1 HTTP/1.1" 200 1022
+[11/Mar/2017 17:11:55] "GET /blog/article/2 HTTP/1.1" 200 983
+Internal Server Error: /blog/index/
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victorlee/graduation_project/myblog/blog/views.py", line 10, in index
+    return render(request, 'blog/index.html', {'articles': articles})
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 68, in render_to_string
+    return template.render(context, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/backends/django.py", line 66, in render
+    return self.template.render(context)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/base.py", line 208, in render
+    return self._render(context)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/base.py", line 199, in _render
+    return self.nodelist.render(context)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/base.py", line 994, in render
+    bit = node.render_annotated(context)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/base.py", line 961, in render_annotated
+    return self.render(context)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/defaulttags.py", line 209, in render
+    nodelist.append(node.render_annotated(context))
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/base.py", line 961, in render_annotated
+    return self.render(context)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/defaulttags.py", line 439, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/urls/base.py", line 91, in reverse
+    return force_text(iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs)))
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/urls/resolvers.py", line 392, in _reverse_with_prefix
+    (lookup_view_s, args, kwargs, len(patterns), patterns)
+NoReverseMatch: Reverse for 'article_page' with arguments '(1L,)' and keyword arguments '{}' not found. 0 pattern(s) tried: []
+[11/Mar/2017 17:12:08] "GET /blog/index/ HTTP/1.1" 500 134725
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 11, 2017 - 17:11:10
+Django version 1.10.5, using settings 'myblog.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+[11/Mar/2017 17:12:13] "GET /blog/index/ HTTP/1.1" 200 317
+[11/Mar/2017 17:12:14] "GET /blog/index/ HTTP/1.1" 200 317
+[11/Mar/2017 17:12:15] "GET /blog/article/1 HTTP/1.1" 200 1022
+[11/Mar/2017 17:12:18] "GET /blog/article/2 HTTP/1.1" 200 983
+[11/Mar/2017 17:13:48] "GET /blog/article/1 HTTP/1.1" 200 1022
+Not Found: /blog/
+[12/Mar/2017 03:00:38] "GET /blog/ HTTP/1.1" 404 2558
+Not Found: /favicon.ico
+[12/Mar/2017 03:00:38] "GET /favicon.ico HTTP/1.1" 404 2149
+Not Found: /blog
+[12/Mar/2017 03:00:45] "GET /blog HTTP/1.1" 404 2128
+[12/Mar/2017 03:00:47] "GET /blog/index/ HTTP/1.1" 200 317
+[12/Mar/2017 03:00:51] "GET /blog/edit HTTP/1.1" 301 0
+[12/Mar/2017 03:00:51] "GET /blog/edit/ HTTP/1.1" 200 1101
+Forbidden (CSRF token missing or incorrect.): /blog/edit/
+[12/Mar/2017 03:00:53] "POST /blog/edit/ HTTP/1.1" 403 2502
+[12/Mar/2017 03:02:41] "GET /blog/edit/ HTTP/1.1" 200 1116
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 12, 2017 - 03:00:29
+Django version 1.10.5, using settings 'myblog.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+[12/Mar/2017 03:07:50] "GET /admin/ HTTP/1.1" 200 4025
+[12/Mar/2017 03:07:52] "GET /admin/blog/article/ HTTP/1.1" 200 4411
+[12/Mar/2017 03:07:52] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[12/Mar/2017 03:07:54] "GET /admin/blog/article/2/change/ HTTP/1.1" 200 4563
+[12/Mar/2017 03:07:54] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 12, 2017 - 03:06:39
+Django version 1.10.5, using settings 'myblog.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 12, 2017 - 03:10:39
+Django version 1.10.5, using settings 'myblog.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 12, 2017 - 03:12:42
+Django version 1.10.5, using settings 'myblog.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+[12/Mar/2017 03:15:44] "GET /blog/index/ HTTP/1.1" 200 317
+Internal Server Error: /blog/edit/
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victorlee/graduation_project/myblog/blog/views.py", line 19, in edit_page
+    return render(request, 'blog/edit_page.html')
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 68, in render_to_string
+    return template.render(context, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/backends/django.py", line 66, in render
+    return self.template.render(context)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/base.py", line 208, in render
+    return self._render(context)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/base.py", line 199, in _render
+    return self.nodelist.render(context)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/base.py", line 994, in render
+    bit = node.render_annotated(context)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/base.py", line 961, in render_annotated
+    return self.render(context)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/defaulttags.py", line 439, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/urls/base.py", line 91, in reverse
+    return force_text(iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs)))
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/urls/resolvers.py", line 392, in _reverse_with_prefix
+    (lookup_view_s, args, kwargs, len(patterns), patterns)
+NoReverseMatch: Reverse for 'edge_action' with arguments '()' and keyword arguments '{}' not found. 0 pattern(s) tried: []
+[12/Mar/2017 03:15:49] "GET /blog/edit/ HTTP/1.1" 500 124920
+Internal Server Error: /blog/edit/
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victorlee/graduation_project/myblog/blog/views.py", line 19, in edit_page
+    return render(request, 'blog/edit_page.html')
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 68, in render_to_string
+    return template.render(context, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/backends/django.py", line 66, in render
+    return self.template.render(context)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/base.py", line 208, in render
+    return self._render(context)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/base.py", line 199, in _render
+    return self.nodelist.render(context)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/base.py", line 994, in render
+    bit = node.render_annotated(context)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/base.py", line 961, in render_annotated
+    return self.render(context)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/defaulttags.py", line 439, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/urls/base.py", line 91, in reverse
+    return force_text(iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs)))
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/urls/resolvers.py", line 392, in _reverse_with_prefix
+    (lookup_view_s, args, kwargs, len(patterns), patterns)
+NoReverseMatch: Reverse for 'edge_action' with arguments '()' and keyword arguments '{}' not found. 0 pattern(s) tried: []
+[12/Mar/2017 03:15:51] "GET /blog/edit/ HTTP/1.1" 500 124920
+[12/Mar/2017 03:16:38] "GET /blog/edit/ HTTP/1.1" 200 1133
+[12/Mar/2017 03:16:38] "GET /blog/edit/ HTTP/1.1" 200 1133
+[12/Mar/2017 03:16:39] "GET /blog/edit/ HTTP/1.1" 200 1133
+Forbidden (CSRF token missing or incorrect.): /blog/edit/action
+[12/Mar/2017 03:16:42] "POST /blog/edit/action HTTP/1.1" 403 2502
+Forbidden (CSRF token missing or incorrect.): /blog/edit/action
+[12/Mar/2017 03:37:25] "POST /blog/edit/action HTTP/1.1" 403 2502
+[12/Mar/2017 03:37:29] "GET /blog/edit/ HTTP/1.1" 200 1260
+[12/Mar/2017 03:37:30] "GET /blog/edit/ HTTP/1.1" 200 1260
+Internal Server Error: /blog/edit/action
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victorlee/graduation_project/myblog/blog/views.py", line 24, in edit_action
+    models.article.objects.create(title=title, content=conten)
+AttributeError: 'module' object has no attribute 'article'
+[12/Mar/2017 03:37:43] "POST /blog/edit/action HTTP/1.1" 500 72807
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 12, 2017 - 03:13:59
+Django version 1.10.5, using settings 'myblog.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Internal Server Error: /blog/edit/action
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victorlee/graduation_project/myblog/blog/views.py", line 24, in edit_action
+    models.article.objects.create(title=title, content=conten)
+AttributeError: 'module' object has no attribute 'article'
+[12/Mar/2017 03:39:13] "POST /blog/edit/action HTTP/1.1" 500 72800
+[12/Mar/2017 03:39:18] "GET /blog/edit/ HTTP/1.1" 200 1260
+Internal Server Error: /blog/edit/action
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victorlee/graduation_project/myblog/blog/views.py", line 24, in edit_action
+    models.article.objects.create(title=title, content=conten)
+AttributeError: 'module' object has no attribute 'article'
+[12/Mar/2017 03:39:21] "POST /blog/edit/action HTTP/1.1" 500 72834
+[12/Mar/2017 03:39:41] "GET /admin/ HTTP/1.1" 200 4025
+[12/Mar/2017 03:39:43] "GET /admin/blog/article/ HTTP/1.1" 200 4411
+[12/Mar/2017 03:39:43] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+Forbidden (CSRF token missing or incorrect.): /blog/edit/
+[12/Mar/2017 03:39:51] "POST /blog/edit/ HTTP/1.1" 403 2502
+Forbidden (CSRF token missing or incorrect.): /blog/edit/
+[12/Mar/2017 03:39:56] "POST /blog/edit/ HTTP/1.1" 403 2502
+[12/Mar/2017 03:39:59] "GET /blog/edit/ HTTP/1.1" 200 1260
+Internal Server Error: /blog/edit/action
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victorlee/graduation_project/myblog/blog/views.py", line 24, in edit_action
+    models.article.objects.create(title=title, content=conten)
+AttributeError: 'module' object has no attribute 'article'
+[12/Mar/2017 03:40:03] "POST /blog/edit/action HTTP/1.1" 500 72830
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 12, 2017 - 03:39:10
+Django version 1.10.5, using settings 'myblog.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+[12/Mar/2017 03:40:58] "POST /blog/edit/action HTTP/1.1" 200 366
+[12/Mar/2017 03:41:00] "GET /blog/article/3 HTTP/1.1" 200 987
+[12/Mar/2017 03:41:16] "GET /blog/edit/ HTTP/1.1" 200 1260
+[12/Mar/2017 03:41:20] "POST /blog/edit/action HTTP/1.1" 200 409
+[12/Mar/2017 03:41:21] "GET /blog/article/4 HTTP/1.1" 200 981
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 12, 2017 - 03:40:55
+Django version 1.10.5, using settings 'myblog.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+[12/Mar/2017 03:41:51] "GET /blog/edit/ HTTP/1.1" 200 1260
+[12/Mar/2017 03:41:51] "GET /blog/edit/ HTTP/1.1" 200 1260
+[12/Mar/2017 03:41:59] "POST /blog/edit/action HTTP/1.1" 200 452
+[12/Mar/2017 03:42:00] "GET /blog/article/5 HTTP/1.1" 200 971
+[12/Mar/2017 03:42:04] "GET /blog/article/4 HTTP/1.1" 200 981
+[12/Mar/2017 03:42:08] "GET /blog/article/3 HTTP/1.1" 200 987
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 12, 2017 - 03:41:48
+Django version 1.10.5, using settings 'myblog.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+[12/Mar/2017 03:42:41] "GET /blog/edit/ HTTP/1.1" 200 1260
+Internal Server Error: /blog/edit/action
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victorlee/graduation_project/myblog/blog/views.py", line 24, in edit_action
+    models.Article.objects.create(title=title, content=conten)
+NameError: global name 'conten' is not defined
+[12/Mar/2017 03:42:46] "POST /blog/edit/action HTTP/1.1" 500 72660
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 12, 2017 - 03:42:33
+Django version 1.10.5, using settings 'myblog.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+[12/Mar/2017 03:43:00] "POST /blog/edit/action HTTP/1.1" 200 494
+[12/Mar/2017 03:43:03] "GET /blog/article/6 HTTP/1.1" 200 967
+[12/Mar/2017 03:43:09] "GET /blog/edit/ HTTP/1.1" 200 1260
+[12/Mar/2017 03:43:13] "POST /blog/edit/action HTTP/1.1" 200 537
+[12/Mar/2017 03:43:14] "GET /blog/article/7 HTTP/1.1" 200 970
+[12/Mar/2017 03:48:14] "GET /blog/edit/action HTTP/1.1" 200 616
+[12/Mar/2017 03:48:15] "GET /blog/edit/ HTTP/1.1" 200 1260
+[12/Mar/2017 03:48:17] "POST /blog/edit/action HTTP/1.1" 200 657
+[12/Mar/2017 03:48:19] "GET /blog/edit/ HTTP/1.1" 200 1260
+[12/Mar/2017 03:48:20] "POST /blog/edit/action HTTP/1.1" 200 699
+[12/Mar/2017 03:48:23] "GET /blog/edit/ HTTP/1.1" 200 1260
+[12/Mar/2017 03:48:24] "POST /blog/edit/action HTTP/1.1" 200 741
+[12/Mar/2017 03:48:25] "GET /blog/article/8 HTTP/1.1" 200 992
+[12/Mar/2017 03:48:28] "GET /blog/article/8 HTTP/1.1" 200 992
+[12/Mar/2017 03:48:30] "GET /blog/article/8 HTTP/1.1" 200 992
+[12/Mar/2017 03:48:33] "GET /blog/article/1 HTTP/1.1" 200 1022
+[12/Mar/2017 03:48:36] "GET /blog/article/2 HTTP/1.1" 200 983
+[12/Mar/2017 03:48:38] "GET /blog/article/3 HTTP/1.1" 200 987
+[12/Mar/2017 03:48:42] "GET /blog/article/5 HTTP/1.1" 200 971
+[12/Mar/2017 03:48:45] "GET /blog/article/4 HTTP/1.1" 200 981
+[12/Mar/2017 03:48:53] "GET /admin/blog/article/ HTTP/1.1" 200 6390
+[12/Mar/2017 03:48:53] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+Not Found: /
+[12/Mar/2017 04:12:06] "GET / HTTP/1.1" 404 2116
+[12/Mar/2017 04:12:09] "GET /admin/blog/article/ HTTP/1.1" 200 6390
+[12/Mar/2017 04:12:15] "GET /admin/blog/article/add/ HTTP/1.1" 200 4333
+[12/Mar/2017 04:12:15] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[12/Mar/2017 04:12:18] "GET /admin/blog/article/ HTTP/1.1" 200 6390
+[12/Mar/2017 04:15:00] "GET /blog/article/1 HTTP/1.1" 200 1022
+[12/Mar/2017 04:18:01] "GET /blog/index/ HTTP/1.1" 200 741
+[12/Mar/2017 04:18:03] "GET /blog/edit/ HTTP/1.1" 200 1260
+[12/Mar/2017 04:18:16] "GET /blog/article/1 HTTP/1.1" 200 1022
+[12/Mar/2017 04:18:21] "GET /blog/edit/ HTTP/1.1" 200 1260
+[12/Mar/2017 04:18:25] "GET /blog/article/1 HTTP/1.1" 200 1022
+[12/Mar/2017 04:18:26] "GET /blog/article/1 HTTP/1.1" 200 1022
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 12, 2017 - 03:42:59
+Django version 1.10.5, using settings 'myblog.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 12, 2017 - 04:21:47
+Django version 1.10.5, using settings 'myblog.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Internal Server Error: /blog/article/1
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victorlee/graduation_project/myblog/blog/views.py", line 16, in article_page
+    return render(request, 'blog/article_page.html', {'article': article})
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 68, in render_to_string
+    return template.render(context, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/backends/django.py", line 66, in render
+    return self.template.render(context)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/base.py", line 208, in render
+    return self._render(context)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/base.py", line 199, in _render
+    return self.nodelist.render(context)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/base.py", line 994, in render
+    bit = node.render_annotated(context)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/base.py", line 961, in render_annotated
+    return self.render(context)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/defaulttags.py", line 439, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/urls/base.py", line 91, in reverse
+    return force_text(iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs)))
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/urls/resolvers.py", line 392, in _reverse_with_prefix
+    (lookup_view_s, args, kwargs, len(patterns), patterns)
+NoReverseMatch: Reverse for 'edit_page' with arguments '('',)' and keyword arguments '{}' not found. 1 pattern(s) tried: [u'blog/edit/(?P<article_id>[0-9]+)$']
+[12/Mar/2017 04:26:05] "GET /blog/article/1 HTTP/1.1" 500 128001
+[12/Mar/2017 04:26:11] "GET /blog/index/ HTTP/1.1" 200 742
+[12/Mar/2017 04:26:13] "GET /blog/edit/0 HTTP/1.1" 200 1260
+Internal Server Error: /blog/article/1
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victorlee/graduation_project/myblog/blog/views.py", line 16, in article_page
+    return render(request, 'blog/article_page.html', {'article': article})
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 68, in render_to_string
+    return template.render(context, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/backends/django.py", line 66, in render
+    return self.template.render(context)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/base.py", line 208, in render
+    return self._render(context)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/base.py", line 199, in _render
+    return self.nodelist.render(context)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/base.py", line 994, in render
+    bit = node.render_annotated(context)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/base.py", line 961, in render_annotated
+    return self.render(context)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/defaulttags.py", line 439, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/urls/base.py", line 91, in reverse
+    return force_text(iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs)))
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/urls/resolvers.py", line 392, in _reverse_with_prefix
+    (lookup_view_s, args, kwargs, len(patterns), patterns)
+NoReverseMatch: Reverse for 'edit_page' with arguments '('',)' and keyword arguments '{}' not found. 1 pattern(s) tried: [u'blog/edit/(?P<article_id>[0-9]+)$']
+[12/Mar/2017 04:26:16] "GET /blog/article/1 HTTP/1.1" 500 127863
+[12/Mar/2017 04:30:22] "GET /blog/index/ HTTP/1.1" 200 742
+[12/Mar/2017 04:30:22] "GET /blog/index/ HTTP/1.1" 200 742
+[12/Mar/2017 04:30:24] "GET /blog/index/ HTTP/1.1" 200 742
+[12/Mar/2017 04:30:25] "GET /blog/index/ HTTP/1.1" 200 742
+[12/Mar/2017 04:30:25] "GET /blog/index/ HTTP/1.1" 200 742
+[12/Mar/2017 04:30:25] "GET /blog/edit/0 HTTP/1.1" 200 1260
+[12/Mar/2017 04:30:27] "POST /blog/edit/action HTTP/1.1" 200 784
+[12/Mar/2017 04:30:29] "GET /blog/edit/0 HTTP/1.1" 200 1260
+[12/Mar/2017 04:30:32] "POST /blog/edit/action HTTP/1.1" 200 838
+[12/Mar/2017 04:30:36] "GET /blog/edit/0 HTTP/1.1" 200 1260
+Internal Server Error: /blog/article/1
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victorlee/graduation_project/myblog/blog/views.py", line 16, in article_page
+    return render(request, 'blog/article_page.html', {'article': article})
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 68, in render_to_string
+    return template.render(context, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/backends/django.py", line 66, in render
+    return self.template.render(context)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/base.py", line 208, in render
+    return self._render(context)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/base.py", line 199, in _render
+    return self.nodelist.render(context)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/base.py", line 994, in render
+    bit = node.render_annotated(context)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/base.py", line 961, in render_annotated
+    return self.render(context)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/defaulttags.py", line 439, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/urls/base.py", line 91, in reverse
+    return force_text(iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs)))
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/urls/resolvers.py", line 392, in _reverse_with_prefix
+    (lookup_view_s, args, kwargs, len(patterns), patterns)
+NoReverseMatch: Reverse for 'edit_page' with arguments '('',)' and keyword arguments '{}' not found. 1 pattern(s) tried: [u'blog/edit/(?P<article_id>[0-9]+)$']
+[12/Mar/2017 04:30:38] "GET /blog/article/1 HTTP/1.1" 500 127868
+[12/Mar/2017 04:33:37] "GET /blog/article/1 HTTP/1.1" 200 1034
+[12/Mar/2017 04:33:38] "GET /blog/edit/1 HTTP/1.1" 200 1260
+[12/Mar/2017 04:40:00] "GET /blog/edit/0 HTTP/1.1" 200 1260
+[12/Mar/2017 04:40:05] "POST /blog/edit/action HTTP/1.1" 200 881
+[12/Mar/2017 04:42:02] "GET /blog/article/2 HTTP/1.1" 200 995
+[12/Mar/2017 04:42:03] "GET /blog/edit/2 HTTP/1.1" 200 1260
+[12/Mar/2017 04:45:34] "GET /blog/edit/2 HTTP/1.1" 200 1309
+[12/Mar/2017 04:45:35] "GET /blog/edit/2 HTTP/1.1" 200 1309
+[12/Mar/2017 04:45:35] "GET /blog/edit/2 HTTP/1.1" 200 1309
+[12/Mar/2017 04:45:35] "GET /blog/edit/2 HTTP/1.1" 200 1309
+[12/Mar/2017 04:45:35] "GET /blog/edit/2 HTTP/1.1" 200 1309
+[12/Mar/2017 04:45:35] "GET /blog/edit/2 HTTP/1.1" 200 1309
+Not Found: /blog/edit/
+[12/Mar/2017 04:45:44] "GET /blog/edit/ HTTP/1.1" 404 2805
+Not Found: /blog/edit/
+[12/Mar/2017 04:45:45] "GET /blog/edit/ HTTP/1.1" 404 2805
+Not Found: /blog/
+[12/Mar/2017 04:45:48] "GET /blog/ HTTP/1.1" 404 2790
+[12/Mar/2017 04:45:50] "GET /blog/index/ HTTP/1.1" 200 881
+[12/Mar/2017 04:45:51] "GET /blog/index/ HTTP/1.1" 200 881
+[12/Mar/2017 04:45:52] "GET /blog/article/8 HTTP/1.1" 200 1004
+[12/Mar/2017 04:45:54] "GET /blog/edit/8 HTTP/1.1" 200 1318
+[12/Mar/2017 04:45:58] "POST /blog/edit/action HTTP/1.1" 200 936
+[12/Mar/2017 04:45:59] "GET /blog/article/8 HTTP/1.1" 200 1004
+[12/Mar/2017 04:46:05] "GET /blog/edit/8 HTTP/1.1" 200 1318
+[12/Mar/2017 04:46:10] "POST /blog/edit/action HTTP/1.1" 200 991
+[12/Mar/2017 04:46:13] "GET /blog/article/16 HTTP/1.1" 200 1031
+[12/Mar/2017 04:46:19] "GET /blog/article/15 HTTP/1.1" 200 1041
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 12, 2017 - 04:22:47
+Django version 1.10.5, using settings 'myblog.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 12, 2017 - 04:53:09
+Django version 1.10.5, using settings 'myblog.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 12, 2017 - 04:54:39
+Django version 1.10.5, using settings 'myblog.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+[12/Mar/2017 04:56:24] "GET /blog/article/1 HTTP/1.1" 200 1034
+[12/Mar/2017 04:56:26] "GET /blog/edit/1 HTTP/1.1" 200 1401
+[12/Mar/2017 04:56:32] "POST /blog/edit/action HTTP/1.1" 200 1036
+[12/Mar/2017 04:56:37] "GET /blog/index/ HTTP/1.1" 200 993
+[12/Mar/2017 04:56:38] "GET /blog/index/ HTTP/1.1" 200 993
+[12/Mar/2017 04:56:42] "GET /blog/article/14 HTTP/1.1" 200 990
+[12/Mar/2017 04:56:44] "GET /blog/edit/14 HTTP/1.1" 200 1357
+[12/Mar/2017 04:56:49] "POST /blog/edit/action HTTP/1.1" 200 1008
+[12/Mar/2017 04:56:54] "GET /blog/index/ HTTP/1.1" 200 993
+[12/Mar/2017 04:56:54] "GET /blog/index/ HTTP/1.1" 200 993
+[12/Mar/2017 04:56:57] "GET /blog/article/14 HTTP/1.1" 200 1008
+[12/Mar/2017 04:57:00] "GET /blog/article/2 HTTP/1.1" 200 995
+[12/Mar/2017 04:57:02] "GET /blog/edit/2 HTTP/1.1" 200 1362
+[12/Mar/2017 04:57:06] "POST /blog/edit/action HTTP/1.1" 200 998
+[12/Mar/2017 04:57:10] "GET /blog/index/ HTTP/1.1" 200 996
+[12/Mar/2017 04:57:11] "GET /blog/index/ HTTP/1.1" 200 996
+[12/Mar/2017 04:57:13] "GET /blog/article/2 HTTP/1.1" 200 998
+[12/Mar/2017 04:57:26] "GET /blog/edit/0 HTTP/1.1" 200 1325
+[12/Mar/2017 04:57:33] "POST /blog/edit/action HTTP/1.1" 200 1044
+[12/Mar/2017 04:57:35] "GET /blog/article/17 HTTP/1.1" 200 1023
+[12/Mar/2017 05:10:09] "GET /blog/edit/17 HTTP/1.1" 200 1386
+[12/Mar/2017 05:10:10] "POST /blog/edit/action HTTP/1.1" 200 1023
+[12/Mar/2017 05:10:14] "GET /blog/index/ HTTP/1.1" 200 1044
+[12/Mar/2017 05:10:15] "GET /blog/index/ HTTP/1.1" 200 1044
+[12/Mar/2017 05:10:17] "GET /blog/edit/0 HTTP/1.1" 200 1338
+Internal Server Error: /blog/edit/action
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victorlee/graduation_project/myblog/blog/views.py", line 34, in edit_action
+    article = models.Article.objects.get(pk=article_id)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/db/models/query.py", line 376, in get
+    clone = self.filter(*args, **kwargs)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/db/models/query.py", line 796, in filter
+    return self._filter_or_exclude(False, *args, **kwargs)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/db/models/query.py", line 814, in _filter_or_exclude
+    clone.query.add_q(Q(*args, **kwargs))
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/db/models/sql/query.py", line 1227, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/db/models/sql/query.py", line 1253, in _add_q
+    allow_joins=allow_joins, split_subq=split_subq,
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/db/models/sql/query.py", line 1187, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/db/models/sql/query.py", line 1083, in build_lookup
+    return final_lookup(lhs, rhs)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/db/models/lookups.py", line 19, in __init__
+    self.rhs = self.get_prep_lookup()
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/db/models/lookups.py", line 59, in get_prep_lookup
+    return self.lhs.output_field.get_prep_value(self.rhs)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/db/models/fields/__init__.py", line 946, in get_prep_value
+    return int(value)
+ValueError: invalid literal for int() with base 10: ''
+[12/Mar/2017 05:10:21] "POST /blog/edit/action HTTP/1.1" 500 125973
+[12/Mar/2017 05:10:26] "GET /blog/index/ HTTP/1.1" 200 1044
+[12/Mar/2017 05:10:26] "GET /blog/index/ HTTP/1.1" 200 1044
+[12/Mar/2017 05:10:34] "GET /blog/article/17 HTTP/1.1" 200 1023
+[12/Mar/2017 05:10:36] "GET /blog/edit/17 HTTP/1.1" 200 1386
+[12/Mar/2017 05:10:40] "POST /blog/edit/action HTTP/1.1" 200 1033
+[12/Mar/2017 05:10:43] "GET /blog/index/ HTTP/1.1" 200 1054
+[12/Mar/2017 05:10:43] "GET /blog/index/ HTTP/1.1" 200 1054
+Internal Server Error: /blog/edit/0
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victorlee/graduation_project/myblog/blog/views.py", line 20, in edit_page
+    return render(request, 'blog/edit_page.html')
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 67, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 21, in get_template
+    return engine.get_template(template_name)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/backends/django.py", line 39, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/engine.py", line 160, in get_template
+    template, origin = self.find_template(template_name)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/engine.py", line 134, in find_template
+    name, template_dirs=dirs, skip=skip,
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loaders/base.py", line 44, in get_template
+    contents, origin, origin.template_name, self.engine,
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/base.py", line 191, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/base.py", line 233, in compile_nodelist
+    return parser.parse()
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/base.py", line 489, in parse
+    raise self.error(token, e)
+TemplateSyntaxError: Invalid filter: 'defalu'
+[12/Mar/2017 05:10:56] "GET /blog/edit/0 HTTP/1.1" 500 125788
+[12/Mar/2017 05:11:00] "GET /blog/index/ HTTP/1.1" 200 1054
+[12/Mar/2017 05:11:00] "GET /blog/index/ HTTP/1.1" 200 1054
+Internal Server Error: /blog/edit/0
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victorlee/graduation_project/myblog/blog/views.py", line 20, in edit_page
+    return render(request, 'blog/edit_page.html')
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 67, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 21, in get_template
+    return engine.get_template(template_name)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/backends/django.py", line 39, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/engine.py", line 160, in get_template
+    template, origin = self.find_template(template_name)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/engine.py", line 134, in find_template
+    name, template_dirs=dirs, skip=skip,
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loaders/base.py", line 44, in get_template
+    contents, origin, origin.template_name, self.engine,
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/base.py", line 191, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/base.py", line 233, in compile_nodelist
+    return parser.parse()
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/base.py", line 489, in parse
+    raise self.error(token, e)
+TemplateSyntaxError: Invalid filter: 'defalu'
+[12/Mar/2017 05:11:02] "GET /blog/edit/0 HTTP/1.1" 500 125788
+[12/Mar/2017 05:11:09] "GET /blog/index/ HTTP/1.1" 200 1054
+[12/Mar/2017 05:11:09] "GET /blog/index/ HTTP/1.1" 200 1054
+Internal Server Error: /blog/edit/0
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/exception.py", line 39, in inner
+    response = get_response(request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/victorlee/graduation_project/myblog/blog/views.py", line 20, in edit_page
+    return render(request, 'blog/edit_page.html')
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 67, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loader.py", line 21, in get_template
+    return engine.get_template(template_name)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/backends/django.py", line 39, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/engine.py", line 160, in get_template
+    template, origin = self.find_template(template_name)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/engine.py", line 134, in find_template
+    name, template_dirs=dirs, skip=skip,
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/loaders/base.py", line 44, in get_template
+    contents, origin, origin.template_name, self.engine,
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/base.py", line 191, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/base.py", line 233, in compile_nodelist
+    return parser.parse()
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/template/base.py", line 489, in parse
+    raise self.error(token, e)
+TemplateSyntaxError: Invalid filter: 'defalu'
+[12/Mar/2017 05:11:16] "GET /blog/edit/0 HTTP/1.1" 500 125788
+[12/Mar/2017 05:13:34] "GET /blog/index/ HTTP/1.1" 200 1054
+[12/Mar/2017 05:13:34] "GET /blog/index/ HTTP/1.1" 200 1054
+[12/Mar/2017 05:13:35] "GET /blog/edit/0 HTTP/1.1" 200 1339
+[12/Mar/2017 05:13:42] "POST /blog/edit/action HTTP/1.1" 200 1097
+[12/Mar/2017 05:13:44] "GET /blog/article/18 HTTP/1.1" 200 980
+[12/Mar/2017 05:13:46] "GET /blog/edit/18 HTTP/1.1" 200 1343
+[12/Mar/2017 05:13:51] "POST /blog/edit/action HTTP/1.1" 200 992
+[12/Mar/2017 05:13:56] "GET /blog/index/ HTTP/1.1" 200 1109
+[12/Mar/2017 05:13:56] "GET /blog/index/ HTTP/1.1" 200 1109
+[12/Mar/2017 05:13:58] "GET /blog/article/18 HTTP/1.1" 200 992
+[12/Mar/2017 13:25:45] "GET /admin/ HTTP/1.1" 200 4025
+Not Found: /favicon.ico
+[12/Mar/2017 13:25:45] "GET /favicon.ico HTTP/1.1" 404 2149
+[12/Mar/2017 13:25:48] "GET /admin/blog/article/ HTTP/1.1" 200 7981
+[12/Mar/2017 13:25:48] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 12, 2017 - 13:25:34
+Django version 1.10.5, using settings 'myblog.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+[12/Mar/2017 13:26:36] "GET /admin/blog/article/ HTTP/1.1" 200 7981
+[12/Mar/2017 13:26:36] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[12/Mar/2017 13:26:37] "GET /admin/blog/article/ HTTP/1.1" 200 7981
+[12/Mar/2017 13:26:37] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[12/Mar/2017 13:26:38] "GET /admin/blog/article/ HTTP/1.1" 200 7981
+[12/Mar/2017 13:26:38] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[12/Mar/2017 13:26:38] "GET /admin/blog/article/ HTTP/1.1" 200 7981
+[12/Mar/2017 13:26:38] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 12, 2017 - 13:26:22
+Django version 1.10.5, using settings 'myblog.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+[12/Mar/2017 13:26:56] "GET /admin/blog/article/ HTTP/1.1" 200 7981
+[12/Mar/2017 13:26:56] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[12/Mar/2017 13:26:57] "GET /admin/blog/article/ HTTP/1.1" 200 7981
+[12/Mar/2017 13:26:57] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[12/Mar/2017 13:26:57] "GET /admin/blog/article/ HTTP/1.1" 200 7981
+[12/Mar/2017 13:26:57] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[12/Mar/2017 13:26:58] "GET /admin/blog/article/ HTTP/1.1" 200 7981
+[12/Mar/2017 13:26:58] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[12/Mar/2017 13:26:58] "GET /admin/blog/article/ HTTP/1.1" 200 7981
+[12/Mar/2017 13:26:58] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 12, 2017 - 13:26:54
+Django version 1.10.5, using settings 'myblog.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+[12/Mar/2017 13:28:01] "GET /admin/blog/article/ HTTP/1.1" 200 7981
+[12/Mar/2017 13:28:01] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[12/Mar/2017 13:28:02] "GET /admin/blog/article/ HTTP/1.1" 200 7981
+[12/Mar/2017 13:28:02] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[12/Mar/2017 13:28:03] "GET /admin/blog/article/ HTTP/1.1" 200 7981
+[12/Mar/2017 13:28:03] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[12/Mar/2017 13:28:03] "GET /admin/blog/article/ HTTP/1.1" 200 7981
+[12/Mar/2017 13:28:03] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 12, 2017 - 13:27:59
+Django version 1.10.5, using settings 'myblog.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+[12/Mar/2017 13:28:08] "GET /admin/blog/article/ HTTP/1.1" 200 8973
+[12/Mar/2017 13:28:08] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[12/Mar/2017 13:28:09] "GET /admin/blog/article/ HTTP/1.1" 200 8973
+[12/Mar/2017 13:28:09] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[12/Mar/2017 13:28:09] "GET /admin/blog/article/ HTTP/1.1" 200 8973
+[12/Mar/2017 13:28:09] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[12/Mar/2017 13:28:09] "GET /admin/blog/article/ HTTP/1.1" 200 8973
+[12/Mar/2017 13:28:09] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[12/Mar/2017 13:28:10] "GET /admin/blog/article/ HTTP/1.1" 200 8973
+[12/Mar/2017 13:28:10] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 12, 2017 - 13:28:08
+Django version 1.10.5, using settings 'myblog.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+[12/Mar/2017 13:28:17] "GET /admin/blog/article/ HTTP/1.1" 200 8973
+[12/Mar/2017 13:28:17] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[12/Mar/2017 13:28:17] "GET /admin/blog/article/ HTTP/1.1" 200 8973
+[12/Mar/2017 13:28:17] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[12/Mar/2017 13:28:18] "GET /admin/blog/article/ HTTP/1.1" 200 8973
+[12/Mar/2017 13:28:18] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[12/Mar/2017 13:28:18] "GET /admin/blog/article/ HTTP/1.1" 200 8973
+[12/Mar/2017 13:28:18] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[12/Mar/2017 13:28:19] "GET /admin/blog/article/ HTTP/1.1" 200 8973
+[12/Mar/2017 13:28:19] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[12/Mar/2017 13:28:19] "GET /admin/blog/article/ HTTP/1.1" 200 8973
+[12/Mar/2017 13:28:19] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[12/Mar/2017 13:28:19] "GET /admin/blog/article/ HTTP/1.1" 200 8973
+[12/Mar/2017 13:28:19] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[12/Mar/2017 13:28:19] "GET /admin/blog/article/ HTTP/1.1" 200 8973
+[12/Mar/2017 13:28:19] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[12/Mar/2017 13:28:42] "GET /admin/blog/article/?o=1 HTTP/1.1" 200 9703
+[12/Mar/2017 13:28:42] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[12/Mar/2017 13:28:42] "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+[12/Mar/2017 13:28:43] "GET /admin/blog/article/?o=-1 HTTP/1.1" 200 9723
+[12/Mar/2017 13:28:43] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[12/Mar/2017 13:28:44] "GET /admin/blog/article/?o=2.-1 HTTP/1.1" 200 10131
+[12/Mar/2017 13:28:44] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[12/Mar/2017 13:28:45] "GET /admin/blog/article/?o=-2.-1 HTTP/1.1" 200 10153
+[12/Mar/2017 13:28:45] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 12, 2017 - 13:28:16
+Django version 1.10.5, using settings 'myblog.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Unhandled exception in thread started by <function wrapper at 0x7fb71bc1bf50>
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/utils/autoreload.py", line 226, in wrapper
+    fn(*args, **kwargs)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/management/commands/runserver.py", line 113, in inner_run
+    autoreload.raise_last_exception()
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/utils/autoreload.py", line 249, in raise_last_exception
+    six.reraise(*_exception)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/utils/autoreload.py", line 226, in wrapper
+    fn(*args, **kwargs)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/__init__.py", line 27, in setup
+    apps.populate(settings.INSTALLED_APPS)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/apps/registry.py", line 115, in populate
+    app_config.ready()
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/contrib/admin/apps.py", line 23, in ready
+    self.module.autodiscover()
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/contrib/admin/__init__.py", line 26, in autodiscover
+    autodiscover_modules('admin', register_to=site)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/utils/module_loading.py", line 50, in autodiscover_modules
+    import_module('%s.%s' % (app_config.name, module_to_search))
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/victorlee/graduation_project/myblog/blog/admin.py", line 5, in <module>
+    class ArticleAdmin(admin.ModelAdmin):
+  File "/home/victorlee/graduation_project/myblog/blog/admin.py", line 7, in ArticleAdmin
+    pub_time = models.DateTimeField(auto_now=True)
+NameError: name 'models' is not defined
+Unhandled exception in thread started by <function wrapper at 0x7ff98008e0c8>
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/utils/autoreload.py", line 226, in wrapper
+    fn(*args, **kwargs)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/management/commands/runserver.py", line 113, in inner_run
+    autoreload.raise_last_exception()
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/utils/autoreload.py", line 249, in raise_last_exception
+    six.reraise(*_exception)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/utils/autoreload.py", line 226, in wrapper
+    fn(*args, **kwargs)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/__init__.py", line 27, in setup
+    apps.populate(settings.INSTALLED_APPS)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/apps/registry.py", line 115, in populate
+    app_config.ready()
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/contrib/admin/apps.py", line 23, in ready
+    self.module.autodiscover()
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/contrib/admin/__init__.py", line 26, in autodiscover
+    autodiscover_modules('admin', register_to=site)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/utils/module_loading.py", line 50, in autodiscover_modules
+    import_module('%s.%s' % (app_config.name, module_to_search))
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/victorlee/graduation_project/myblog/blog/admin.py", line 5, in <module>
+    class ArticleAdmin(admin.ModelAdmin):
+  File "/home/victorlee/graduation_project/myblog/blog/admin.py", line 7, in ArticleAdmin
+    pub_time = models.DateTimeField(auto_now=True)
+NameError: name 'models' is not defined
+[12/Mar/2017 13:33:55] "GET /admin/blog/article/?o=-2.-1 HTTP/1.1" 200 10153
+[12/Mar/2017 13:33:55] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[12/Mar/2017 13:33:56] "GET /admin/blog/article/?o=-2.-1 HTTP/1.1" 200 10153
+[12/Mar/2017 13:33:56] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[12/Mar/2017 13:33:56] "GET /admin/blog/article/?o=-2.-1 HTTP/1.1" 200 10153
+[12/Mar/2017 13:33:56] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[12/Mar/2017 13:33:56] "GET /admin/blog/article/?o=-2.-1 HTTP/1.1" 200 10153
+[12/Mar/2017 13:33:56] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 12, 2017 - 13:33:20
+Django version 1.10.5, using settings 'myblog.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+[12/Mar/2017 13:34:53] "GET /admin/blog/article/?o=-2.-1 HTTP/1.1" 200 11466
+[12/Mar/2017 13:34:53] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[12/Mar/2017 13:34:53] "GET /admin/blog/article/?o=-2.-1 HTTP/1.1" 200 11466
+[12/Mar/2017 13:34:53] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[12/Mar/2017 13:34:54] "GET /admin/blog/article/?o=-2.-1 HTTP/1.1" 200 11466
+[12/Mar/2017 13:34:54] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 12, 2017 - 13:34:51
+Django version 1.10.5, using settings 'myblog.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+[12/Mar/2017 13:36:48] "GET /admin/blog/article/?o=-2.-1 HTTP/1.1" 200 11466
+[12/Mar/2017 13:36:48] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[12/Mar/2017 13:36:49] "GET /admin/blog/article/?o=-2.-1 HTTP/1.1" 200 11466
+[12/Mar/2017 13:36:49] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[12/Mar/2017 13:36:50] "GET /admin/blog/article/?o=-2.-1 HTTP/1.1" 200 11466
+[12/Mar/2017 13:36:50] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[12/Mar/2017 13:36:51] "GET /admin/blog/article/?o=-2.-1 HTTP/1.1" 200 11466
+[12/Mar/2017 13:36:51] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[12/Mar/2017 13:36:52] "GET /admin/blog/article/?o=-2.-1 HTTP/1.1" 200 11466
+[12/Mar/2017 13:36:52] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[12/Mar/2017 13:36:52] "GET /admin/blog/article/?o=-2.-1 HTTP/1.1" 200 11466
+[12/Mar/2017 13:36:52] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[12/Mar/2017 13:36:52] "GET /admin/blog/article/?o=-2.-1 HTTP/1.1" 200 11466
+[12/Mar/2017 13:36:52] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[12/Mar/2017 13:36:52] "GET /admin/blog/article/?o=-2.-1 HTTP/1.1" 200 11466
+[12/Mar/2017 13:36:52] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[12/Mar/2017 13:36:56] "GET /admin/blog/article/1/change/?_changelist_filters=o%3D-2.-1 HTTP/1.1" 200 5547
+[12/Mar/2017 13:36:56] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[12/Mar/2017 13:36:56] "GET /static/admin/js/calendar.js HTTP/1.1" 200 7790
+[12/Mar/2017 13:36:56] "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 20529
+[12/Mar/2017 13:36:56] "GET /static/admin/img/icon-clock.svg HTTP/1.1" 200 677
+[12/Mar/2017 13:36:56] "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 12, 2017 - 13:36:05
+Django version 1.10.5, using settings 'myblog.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Traceback (most recent call last):
+  File "manage.py", line 26, in <module>
+    execute_from_command_line(sys.argv)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/management/__init__.py", line 367, in execute_from_command_line
+    utility.execute()
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/management/__init__.py", line 316, in execute
+    settings.INSTALLED_APPS
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/conf/__init__.py", line 53, in __getattr__
+    self._setup(name)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/conf/__init__.py", line 41, in _setup
+    self._wrapped = Settings(settings_module)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/conf/__init__.py", line 124, in __init__
+    raise ValueError("Incorrect timezone setting: %s" % self.TIME_ZONE)
+ValueError: Incorrect timezone setting: shanghai
+Traceback (most recent call last):
+  File "manage.py", line 26, in <module>
+    execute_from_command_line(sys.argv)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/management/__init__.py", line 367, in execute_from_command_line
+    utility.execute()
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/management/__init__.py", line 316, in execute
+    settings.INSTALLED_APPS
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/conf/__init__.py", line 53, in __getattr__
+    self._setup(name)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/conf/__init__.py", line 41, in _setup
+    self._wrapped = Settings(settings_module)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/conf/__init__.py", line 124, in __init__
+    raise ValueError("Incorrect timezone setting: %s" % self.TIME_ZONE)
+ValueError: Incorrect timezone setting: Asia/shanghai
+Traceback (most recent call last):
+  File "manage.py", line 26, in <module>
+    execute_from_command_line(sys.argv)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/management/__init__.py", line 367, in execute_from_command_line
+    utility.execute()
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/management/__init__.py", line 316, in execute
+    settings.INSTALLED_APPS
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/conf/__init__.py", line 53, in __getattr__
+    self._setup(name)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/conf/__init__.py", line 41, in _setup
+    self._wrapped = Settings(settings_module)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/conf/__init__.py", line 124, in __init__
+    raise ValueError("Incorrect timezone setting: %s" % self.TIME_ZONE)
+ValueError: Incorrect timezone setting: Asia/shanghai
+Traceback (most recent call last):
+  File "manage.py", line 26, in <module>
+    execute_from_command_line(sys.argv)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/management/__init__.py", line 367, in execute_from_command_line
+    utility.execute()
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/management/__init__.py", line 316, in execute
+    settings.INSTALLED_APPS
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/conf/__init__.py", line 53, in __getattr__
+    self._setup(name)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/conf/__init__.py", line 41, in _setup
+    self._wrapped = Settings(settings_module)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/conf/__init__.py", line 124, in __init__
+    raise ValueError("Incorrect timezone setting: %s" % self.TIME_ZONE)
+ValueError: Incorrect timezone setting: Asia/shanghai
+Traceback (most recent call last):
+  File "manage.py", line 26, in <module>
+    execute_from_command_line(sys.argv)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/management/__init__.py", line 367, in execute_from_command_line
+    utility.execute()
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/management/__init__.py", line 316, in execute
+    settings.INSTALLED_APPS
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/conf/__init__.py", line 53, in __getattr__
+    self._setup(name)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/conf/__init__.py", line 41, in _setup
+    self._wrapped = Settings(settings_module)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/conf/__init__.py", line 124, in __init__
+    raise ValueError("Incorrect timezone setting: %s" % self.TIME_ZONE)
+ValueError: Incorrect timezone setting: Asia/shanghai
+Error: That port is already in use.
+[12/Mar/2017 21:49:35] "GET /admin/ HTTP/1.1" 200 4029
+[12/Mar/2017 21:49:37] "GET /admin/blog/article/ HTTP/1.1" 200 10284
+[12/Mar/2017 21:49:37] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[12/Mar/2017 21:49:40] "GET /admin/blog/article/18/change/ HTTP/1.1" 200 5408
+[12/Mar/2017 21:49:40] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[12/Mar/2017 21:49:43] "GET /static/admin/img/calendar-icons.svg HTTP/1.1" 200 1094
+[12/Mar/2017 21:49:57] "POST /admin/blog/article/18/change/ HTTP/1.1" 302 0
+[12/Mar/2017 21:49:57] "GET /admin/blog/article/ HTTP/1.1" 200 10474
+[12/Mar/2017 21:49:57] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[12/Mar/2017 21:50:21] "GET /admin/blog/article/ HTTP/1.1" 200 10284
+[12/Mar/2017 21:50:21] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[12/Mar/2017 21:50:22] "GET /admin/blog/article/ HTTP/1.1" 200 10284
+[12/Mar/2017 21:50:22] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[12/Mar/2017 21:50:25] "GET /admin/blog/article/17/change/ HTTP/1.1" 200 5452
+[12/Mar/2017 21:50:25] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[12/Mar/2017 21:50:45] "GET /admin/blog/article/17/change/ HTTP/1.1" 200 5452
+[12/Mar/2017 21:50:45] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[12/Mar/2017 21:50:49] "GET /admin/blog/article/ HTTP/1.1" 200 10284
+[12/Mar/2017 21:50:49] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[12/Mar/2017 21:50:51] "GET /admin/blog/article/?o=3 HTTP/1.1" 200 11016
+[12/Mar/2017 21:50:51] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[12/Mar/2017 21:50:52] "GET /admin/blog/article/?o=-3 HTTP/1.1" 200 11037
+[12/Mar/2017 21:50:52] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[12/Mar/2017 21:50:53] "GET /admin/blog/article/?o=3 HTTP/1.1" 200 11016
+[12/Mar/2017 21:50:53] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[12/Mar/2017 21:50:54] "GET /admin/blog/article/?o=-3 HTTP/1.1" 200 11037
+[12/Mar/2017 21:50:54] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[12/Mar/2017 21:50:55] "GET /admin/blog/article/?o=3 HTTP/1.1" 200 11016
+[12/Mar/2017 21:50:55] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 12, 2017 - 21:50:43
+Django version 1.10.5, using settings 'myblog.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 12, 2017 - 21:53:58
+Django version 1.10.5, using settings 'myblog.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+[12/Mar/2017 21:54:15] "GET /admin/blog/article/?o=3 HTTP/1.1" 200 11980
+[12/Mar/2017 21:54:15] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[12/Mar/2017 21:54:16] "GET /admin/blog/article/?o=3 HTTP/1.1" 200 11980
+[12/Mar/2017 21:54:16] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[12/Mar/2017 21:54:16] "GET /admin/blog/article/?o=3 HTTP/1.1" 200 11980
+[12/Mar/2017 21:54:16] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[12/Mar/2017 21:54:17] "GET /admin/blog/article/?o=3 HTTP/1.1" 200 11980
+[12/Mar/2017 21:54:17] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[12/Mar/2017 21:54:17] "GET /admin/blog/article/?o=3 HTTP/1.1" 200 11980
+[12/Mar/2017 21:54:17] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[12/Mar/2017 21:54:19] "GET /admin/blog/article/?o=3&pub_time__gte=2017-03-12+00%3A00%3A00%2B08%3A00&pub_time__lt=2017-03-13+00%3A00%3A00%2B08%3A00 HTTP/1.1" 200 14359
+[12/Mar/2017 21:54:19] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[12/Mar/2017 21:54:20] "GET /admin/blog/article/?o=3&pub_time__gte=2017-03-05+00%3A00%3A00%2B08%3A00&pub_time__lt=2017-03-13+00%3A00%3A00%2B08%3A00 HTTP/1.1" 200 14832
+[12/Mar/2017 21:54:20] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[12/Mar/2017 21:54:21] "GET /admin/blog/article/?o=3&pub_time__gte=2017-03-01+00%3A00%3A00%2B08%3A00&pub_time__lt=2017-04-01+00%3A00%3A00%2B08%3A00 HTTP/1.1" 200 14832
+[12/Mar/2017 21:54:21] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 12, 2017 - 21:54:09
+Django version 1.10.5, using settings 'myblog.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Unhandled exception in thread started by <function wrapper at 0x7f1208f83ed8>
+Performing system checks...
+
+Traceback (most recent call last):
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/utils/autoreload.py", line 226, in wrapper
+    fn(*args, **kwargs)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/management/commands/runserver.py", line 121, in inner_run
+    self.check(display_num_errors=True)
+  File "/home/victorlee/.local/lib/python2.7/site-packages/django/core/management/base.py", line 420, in check
+    raise SystemCheckError(msg)
+django.core.management.base.SystemCheckError: SystemCheckError: System check identified some issues:
+
+ERRORS:
+<class 'blog.admin.ArticleAdmin'>: (admin.E112) The value of 'list_filter' must be a list or tuple.
+
+System check identified 1 issue (0 silenced).
+[12/Mar/2017 21:56:35] "GET /admin/blog/article/?o=3&pub_time__gte=2017-03-01+00%3A00%3A00%2B08%3A00&pub_time__lt=2017-04-01+00%3A00%3A00%2B08%3A00 HTTP/1.1" 200 14832
+[12/Mar/2017 21:56:35] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[12/Mar/2017 21:56:36] "GET /admin/blog/article/?o=3&pub_time__gte=2017-03-01+00%3A00%3A00%2B08%3A00&pub_time__lt=2017-04-01+00%3A00%3A00%2B08%3A00 HTTP/1.1" 200 14832
+[12/Mar/2017 21:56:36] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[12/Mar/2017 21:56:36] "GET /admin/blog/article/?o=3&pub_time__gte=2017-03-01+00%3A00%3A00%2B08%3A00&pub_time__lt=2017-04-01+00%3A00%3A00%2B08%3A00 HTTP/1.1" 200 14832
+[12/Mar/2017 21:56:36] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[12/Mar/2017 21:56:36] "GET /admin/blog/article/?o=3&pub_time__gte=2017-03-01+00%3A00%3A00%2B08%3A00&pub_time__lt=2017-04-01+00%3A00%3A00%2B08%3A00 HTTP/1.1" 200 14832
+[12/Mar/2017 21:56:36] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[12/Mar/2017 21:56:37] "GET /admin/blog/article/?o=3&pub_time__gte=2017-03-01+00%3A00%3A00%2B08%3A00&pub_time__lt=2017-04-01+00%3A00%3A00%2B08%3A00 HTTP/1.1" 200 14832
+[12/Mar/2017 21:56:37] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[12/Mar/2017 21:56:37] "GET /admin/blog/article/?o=3&pub_time__gte=2017-03-01+00%3A00%3A00%2B08%3A00&pub_time__lt=2017-04-01+00%3A00%3A00%2B08%3A00 HTTP/1.1" 200 14832
+[12/Mar/2017 21:56:37] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[12/Mar/2017 21:56:37] "GET /admin/blog/article/?o=3&pub_time__gte=2017-03-01+00%3A00%3A00%2B08%3A00&pub_time__lt=2017-04-01+00%3A00%3A00%2B08%3A00 HTTP/1.1" 200 14832
+[12/Mar/2017 21:56:37] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[12/Mar/2017 21:56:37] "GET /admin/blog/article/?o=3&pub_time__gte=2017-03-01+00%3A00%3A00%2B08%3A00&pub_time__lt=2017-04-01+00%3A00%3A00%2B08%3A00 HTTP/1.1" 200 14832
+[12/Mar/2017 21:56:37] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[12/Mar/2017 21:56:37] "GET /admin/blog/article/?o=3&pub_time__gte=2017-03-01+00%3A00%3A00%2B08%3A00&pub_time__lt=2017-04-01+00%3A00%3A00%2B08%3A00 HTTP/1.1" 200 14832
+[12/Mar/2017 21:56:37] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[12/Mar/2017 22:26:14] "GET /admin/ HTTP/1.1" 200 4325
+[12/Mar/2017 22:26:17] "GET /admin/blog/article/ HTTP/1.1" 200 11197
+[12/Mar/2017 22:26:17] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[12/Mar/2017 22:31:35] "GET /admin/blog/article/ HTTP/1.1" 200 11197
+[12/Mar/2017 22:31:35] "GET /admin/jsi18n/ HTTP/1.1" 200 3217
+[12/Mar/2017 22:31:37] "GET /blog/article/18 HTTP/1.1" 200 992
+[12/Mar/2017 22:31:40] "GET /blog/article/17 HTTP/1.1" 200 1033
+[12/Mar/2017 22:31:42] "GET /admin/blog/article/ HTTP/1.1" 200 11197
+[12/Mar/2017 22:31:42] "GET /admin/jsi18n/ HTTP/1.1" 200 3217

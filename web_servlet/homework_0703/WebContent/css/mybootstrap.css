@@ -1,0 +1,43 @@
+@CHARSET "UTF-8";
+
+.navbar .navbar-collapse .pull-right {
+	line-height: 50px;
+}
+
+#checkIDAndName {
+	color: red;
+	line-height: 30px;
+	display: none;
+}
+
+#checkLearnComm {
+	color: red;
+	line-height: 30px;
+	display: none;
+}
+
+#signinModal {
+	margin-top: 12%;
+}
+
+#locateModal {
+	margin-top: 10%;
+}
+
+#check_psw {
+	color: red;
+	text-align: center;
+}
+
+#check_psw_div {
+	display: none;
+}
+
+#course {
+	padding: 0px;
+}
+
+#course-div {
+	padding-left: 6px;
+	padding-right: 0px;
+}

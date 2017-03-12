@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+	<title>Edit Page</title>
+
+	<link href="http://apps.bdimg.com/libs/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet">
+	<link href="http://apps.bdimg.com/libs/bootstrap/3.3.4/css/bootstrap-theme.min.css" rel="stylesheet">
+	<!--[if lt IE 9]>
+		<script src="http://apps.bdimg.com/libs/html5shiv/r29/html5.min.js"></script>
+		<script src="http://apps.bdimg.com/libs/respond.js/1.4.2/respond.min.js"></script>
+	<![endif]-->
+
+</head>
+
+<body>
+<form action="{% url 'blog:edit_action' %}" method="post">
+	{% csrf_token %}		
+		<input type="hidden" name="article_id" value="{{ article.id | default:'0' }}"/>
+		<label>文章标题
+			<input type="text" name="title" value="{{ article.title }}"/>
+		</label>
+		<br />
+		<label>文章内容
+			<input type="text" name="content" value="{{ article.content }}"/>
+		</label>
+		<br/>
+	<input type="submit" value="提交">
+</form>
+
+    <script src="http://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js" type="text/javascript"></script>
+    <script src="http://apps.bdimg.com/libs/bootstrap/3.3.4/js/bootstrap.min.js" type="text/javascript"></script>
+</body>
+
+</html>
+
